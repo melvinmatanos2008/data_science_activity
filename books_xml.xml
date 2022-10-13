@@ -1,0 +1,31 @@
+<?xml version= "1.0" encoding = "ISO-8859-1"?>
+
+<!-- XML of 3 Books from my favorite subject: R -->
+
+<favorite_subject_books>
+  <book id = "1">
+      <title>Automated Data Collection with R</title>
+      <author>Simon Munzert</author>
+      <author>Christian Rubba</author>
+      <author>Peter Meibner</author>
+      <author>Dominic Nyhuis</author>
+      <publish_year>2015</publish_year>
+      <pages>452</pages>
+      <description>A Practical Guide to Web Scraping and Text Mining</description>
+    </book>
+    <book id = "2">
+      <title>R for Data Science</title>
+      <author>Hadley Wickham</author>
+      <author>Garrett Grolemund</author>
+      <publish_year>2016</publish_year>
+      <pages>492</pages>
+      <description>Learn how to use R to turn raw data into insight, knowledge, and understanding.</description>
+    </book>
+    <book id = "3">
+      <title>R Graphics Cookbook</title>
+      <author>Winston Chang</author>
+      <publish_year>2019</publish_year>
+      <pages>425</pages>
+      <description>Cookbook to help scientists, engineers, and data analysts generate high-quality graphs quickly.</description>
+    </book>
+</favorite_subject_books>
