@@ -1,0 +1,24 @@
+{"favorite_subject_books" : [
+  {
+    "title" : "Automated Data Collection with R",
+    "author(s)" : ["Simon Munzert", "Christian Rubba", "Peter Meibner", "Dominic Nyhuis"],
+    "publish_year" : 2015,
+    "pages" : 452,
+    "description" : "A Practical Guide to Web Scraping and Text Mining"
+  },
+  {
+    "title" : "R for Data Science",
+    "author(s)" : ["Hadley Wickham", "Garrett Grolemund"],
+    "publish_year" : 2016,
+    "pages" : 492,
+    "description" : "Learn how to use R to turn raw data into insight, knowledge, and understanding."
+  },
+  {
+    "title" : "R Graphics Cookbook",
+    "author(s)" : ["Winston Chang"],
+    "publish_year" : 2019,
+    "pages" : 425,
+    "description" : "Cookbook to help scientists, engineers, and data analysts generate high-quality graphs quickly."
+  }
+]
+}
