@@ -1,0 +1,26 @@
+{"My_Books" :[
+    {
+        "Title" : "R Graphics Cookbook",
+        "Author" : "Winston Chang",
+        "Publisher" : "O'Reilly Media Inc",
+        "Year" : "2019",
+        "Edition" : "2nd",
+        "ISBN" : "978-1-4919-7860-3"
+    },
+    {
+        "Title" : "R for Everyone",
+        "Author" : "Jared P. Lander",
+        "Publisher" : "Addison-Wesley Professional",
+        "Year" : "2014",
+        "Edition" : "2nd",
+        "ISBN" : "978-0-1345-4692-6"
+    },
+    {   
+        "Title" : "Data Science for Business",
+        "Author" : ["Foster Provost", "Tom Fawcett"],
+        "Publisher" : "O'Reilly Media Inc.",
+        "Year" : "2013",
+        "Edition" : "1st",
+        "ISBN" : "978-1-4493-6132-7"
+    }]
+}    
