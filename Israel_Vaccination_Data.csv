@@ -1,0 +1,6 @@
+Age,Population%,,Severe Cases,,Efficacy
+,Not Vax %,Fully Vax %,Not Vax per 100K,Fully Vax per 100K,vs. severe disease
+< 50,"1,116,834","3,501,118",43,11,
+,23.30%,73.00%,,,
+> 50,"186,078","2,133,516",171,290,
+,7.90%,90.40%,,,
