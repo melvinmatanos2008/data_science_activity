@@ -1,0 +1,3162 @@
+State,County,Avg Daily Sunlight
+Alabama,"Autauga County, AL",18557.98
+Alabama,"Baldwin County, AL",19101.34
+Alabama,"Barbour County, AL",18642.4
+Alabama,"Bibb County, AL",18282.04
+Alabama,"Blount County, AL",17606.36
+Alabama,"Bullock County, AL",18662.86
+Alabama,"Butler County, AL",18652.79
+Alabama,"Calhoun County, AL",17755.42
+Alabama,"Chambers County, AL",18274.33
+Alabama,"Cherokee County, AL",17439.08
+Alabama,"Chilton County, AL",18384.82
+Alabama,"Choctaw County, AL",18699.73
+Alabama,"Clarke County, AL",18725.46
+Alabama,"Clay County, AL",18088.44
+Alabama,"Cleburne County, AL",17741.41
+Alabama,"Coffee County, AL",18656.47
+Alabama,"Colbert County, AL",17256.46
+Alabama,"Conecuh County, AL",18697.24
+Alabama,"Coosa County, AL",18451.64
+Alabama,"Covington County, AL",18720.03
+Alabama,"Crenshaw County, AL",18714.56
+Alabama,"Cullman County, AL",17532.49
+Alabama,"Dale County, AL",18670.88
+Alabama,"Dallas County, AL",18546.18
+Alabama,"DeKalb County, AL",17161.88
+Alabama,"Elmore County, AL",18583.83
+Alabama,"Escambia County, AL",18766
+Alabama,"Etowah County, AL",17568.91
+Alabama,"Fayette County, AL",17895.1
+Alabama,"Franklin County, AL",17266.17
+Alabama,"Geneva County, AL",18808.59
+Alabama,"Greene County, AL",18467.65
+Alabama,"Hale County, AL",18424.95
+Alabama,"Henry County, AL",18676.29
+Alabama,"Houston County, AL",18882.07
+Alabama,"Jackson County, AL",16998.16
+Alabama,"Jefferson County, AL",17906.02
+Alabama,"Lamar County, AL",17898.21
+Alabama,"Lauderdale County, AL",17114.82
+Alabama,"Lawrence County, AL",17312.89
+Alabama,"Lee County, AL",18311.98
+Alabama,"Limestone County, AL",17081.3
+Alabama,"Lowndes County, AL",18675.07
+Alabama,"Macon County, AL",18581.26
+Alabama,"Madison County, AL",17017.53
+Alabama,"Marengo County, AL",18586.76
+Alabama,"Marion County, AL",17491.71
+Alabama,"Marshall County, AL",17331.17
+Alabama,"Mobile County, AL",19265.03
+Alabama,"Monroe County, AL",18682.88
+Alabama,"Montgomery County, AL",18765.46
+Alabama,"Morgan County, AL",17347.33
+Alabama,"Perry County, AL",18414.15
+Alabama,"Pickens County, AL",18227.05
+Alabama,"Pike County, AL",18676.24
+Alabama,"Randolph County, AL",18085.26
+Alabama,"Russell County, AL",18530.26
+Alabama,"St. Clair County, AL",17811.9
+Alabama,"Shelby County, AL",18112.7
+Alabama,"Sumter County, AL",18550.85
+Alabama,"Talladega County, AL",18020.5
+Alabama,"Tallapoosa County, AL",18412.39
+Alabama,"Tuscaloosa County, AL",18188.15
+Alabama,"Walker County, AL",17828.33
+Alabama,"Washington County, AL",18889.94
+Alabama,"Wilcox County, AL",18605.84
+Alabama,"Winston County, AL",17526.69
+Alabama,,18232.39
+Arizona,"Apache County, AZ",19014.73
+Arizona,"Cochise County, AZ",21183.28
+Arizona,"Coconino County, AZ",19177.87
+Arizona,"Gila County, AZ",20477.77
+Arizona,"Graham County, AZ",20887.35
+Arizona,"Greenlee County, AZ",20564.1
+Arizona,"La Paz County, AZ",21042.89
+Arizona,"Maricopa County, AZ",21187.05
+Arizona,"Mohave County, AZ",19742.71
+Arizona,"Navajo County, AZ",19221
+Arizona,"Pima County, AZ",21306.7
+Arizona,"Pinal County, AZ",21072.94
+Arizona,"Santa Cruz County, AZ",21123.82
+Arizona,"Yavapai County, AZ",20200.84
+Arizona,"Yuma County, AZ",21123.03
+Arizona,,20156.43
+Arkansas,"Arkansas County, AR",17899.31
+Arkansas,"Ashley County, AR",18507.82
+Arkansas,"Baxter County, AR",16842.93
+Arkansas,"Benton County, AR",16861.36
+Arkansas,"Boone County, AR",16751.44
+Arkansas,"Bradley County, AR",18294.13
+Arkansas,"Calhoun County, AR",18252.46
+Arkansas,"Carroll County, AR",16740.64
+Arkansas,"Chicot County, AR",18568.22
+Arkansas,"Clark County, AR",17724.64
+Arkansas,"Clay County, AR",16818.53
+Arkansas,"Cleburne County, AR",17018.75
+Arkansas,"Cleveland County, AR",18003.29
+Arkansas,"Columbia County, AR",18542.92
+Arkansas,"Conway County, AR",17152.8
+Arkansas,"Craighead County, AR",17013.85
+Arkansas,"Crawford County, AR",17062.02
+Arkansas,"Crittenden County, AR",17245.23
+Arkansas,"Cross County, AR",17342.22
+Arkansas,"Dallas County, AR",17919.66
+Arkansas,"Desha County, AR",18216
+Arkansas,"Drew County, AR",18287.13
+Arkansas,"Faulkner County, AR",17263.25
+Arkansas,"Franklin County, AR",17137.1
+Arkansas,"Fulton County, AR",16785.62
+Arkansas,"Garland County, AR",17325.96
+Arkansas,"Grant County, AR",17734.12
+Arkansas,"Greene County, AR",16913.33
+Arkansas,"Hempstead County, AR",17989.85
+Arkansas,"Hot Spring County, AR",17585.31
+Arkansas,"Howard County, AR",17574.66
+Arkansas,"Independence County, AR",17080.44
+Arkansas,"Izard County, AR",16814.57
+Arkansas,"Jackson County, AR",17281.03
+Arkansas,"Jefferson County, AR",17793.5
+Arkansas,"Johnson County, AR",17010.04
+Arkansas,"Lafayette County, AR",18509.46
+Arkansas,"Lawrence County, AR",17010.78
+Arkansas,"Lee County, AR",17488.99
+Arkansas,"Lincoln County, AR",18009.64
+Arkansas,"Little River County, AR",18065.97
+Arkansas,"Logan County, AR",17289.17
+Arkansas,"Lonoke County, AR",17601.49
+Arkansas,"Madison County, AR",16731.61
+Arkansas,"Marion County, AR",16827.79
+Arkansas,"Miller County, AR",18442.07
+Arkansas,"Mississippi County, AR",16951.08
+Arkansas,"Monroe County, AR",17630.16
+Arkansas,"Montgomery County, AR",17279.85
+Arkansas,"Nevada County, AR",18132.45
+Arkansas,"Newton County, AR",16754.91
+Arkansas,"Ouachita County, AR",18176.99
+Arkansas,"Perry County, AR",17341.13
+Arkansas,"Phillips County, AR",17749.65
+Arkansas,"Pike County, AR",17534.19
+Arkansas,"Poinsett County, AR",17188.29
+Arkansas,"Polk County, AR",17128.18
+Arkansas,"Pope County, AR",17046.04
+Arkansas,"Prairie County, AR",17614.97
+Arkansas,"Pulaski County, AR",17522.75
+Arkansas,"Randolph County, AR",16821.75
+Arkansas,"St. Francis County, AR",17424.58
+Arkansas,"Saline County, AR",17440.39
+Arkansas,"Scott County, AR",17306.83
+Arkansas,"Searcy County, AR",16793.44
+Arkansas,"Sebastian County, AR",17358.11
+Arkansas,"Sevier County, AR",17730.96
+Arkansas,"Sharp County, AR",16867.3
+Arkansas,"Stone County, AR",16842.18
+Arkansas,"Union County, AR",18517.67
+Arkansas,"Van Buren County, AR",17021.25
+Arkansas,"Washington County, AR",16807.6
+Arkansas,"White County, AR",17317.52
+Arkansas,"Woodruff County, AR",17455.16
+Arkansas,"Yell County, AR",17304.89
+Arkansas,,17455.78
+California,"Alameda County, CA",19194.22
+California,"Alpine County, CA",18966.21
+California,"Amador County, CA",18681.58
+California,"Butte County, CA",18254.44
+California,"Calaveras County, CA",18859.54
+California,"Colusa County, CA",18597.21
+California,"Contra Costa County, CA",18920.49
+California,"Del Norte County, CA",17522.26
+California,"El Dorado County, CA",18590.93
+California,"Fresno County, CA",19415.27
+California,"Glenn County, CA",18434.28
+California,"Humboldt County, CA",17988.29
+California,"Imperial County, CA",21267.83
+California,"Inyo County, CA",20041.63
+California,"Kern County, CA",20049.37
+California,"Kings County, CA",19615.96
+California,"Lake County, CA",18826.73
+California,"Lassen County, CA",18306.83
+California,"Los Angeles County, CA",20604.83
+California,"Madera County, CA",19192.53
+California,"Marin County, CA",18299.86
+California,"Mariposa County, CA",19167.99
+California,"Mendocino County, CA",18570.45
+California,"Merced County, CA",19496.01
+California,"Modoc County, CA",17787.07
+California,"Mono County, CA",19124.93
+California,"Monterey County, CA",20078.78
+California,"Napa County, CA",18858.33
+California,"Nevada County, CA",18649.74
+California,"Orange County, CA",20386.9
+California,"Placer County, CA",18524.48
+California,"Plumas County, CA",18490.42
+California,"Riverside County, CA",20966.94
+California,"Sacramento County, CA",18608.32
+California,"San Benito County, CA",19900.71
+California,"San Bernardino County, CA",20398.76
+California,"San Diego County, CA",20909.77
+California,"San Francisco County, CA",18338.69
+California,"San Joaquin County, CA",19062.53
+California,"San Luis Obispo County, CA",20285.66
+California,"San Mateo County, CA",18962.48
+California,"Santa Barbara County, CA",20849.94
+California,"Santa Clara County, CA",19472.42
+California,"Santa Cruz County, CA",18970.47
+California,"Shasta County, CA",18065.27
+California,"Sierra County, CA",18718.05
+California,"Siskiyou County, CA",18014.03
+California,"Solano County, CA",18835.34
+California,"Sonoma County, CA",18685.47
+California,"Stanislaus County, CA",19349.77
+California,"Sutter County, CA",18429.35
+California,"Tehama County, CA",18147.81
+California,"Trinity County, CA",18170.38
+California,"Tulare County, CA",19522.95
+California,"Tuolumne County, CA",19147.95
+California,"Ventura County, CA",20513.34
+California,"Yolo County, CA",18636.81
+California,"Yuba County, CA",18378.64
+California,,19438.55
+Colorado,"Adams County, CO",17235.09
+Colorado,"Alamosa County, CO",18385.35
+Colorado,"Arapahoe County, CO",17427.47
+Colorado,"Archuleta County, CO",18144.09
+Colorado,"Baca County, CO",18661.47
+Colorado,"Bent County, CO",18527.46
+Colorado,"Boulder County, CO",16761.67
+Colorado,"Chaffee County, CO",17583.42
+Colorado,"Cheyenne County, CO",17919.23
+Colorado,"Clear Creek County, CO",16674.41
+Colorado,"Conejos County, CO",18558.68
+Colorado,"Costilla County, CO",17768.41
+Colorado,"Crowley County, CO",18586.01
+Colorado,"Custer County, CO",17691.85
+Colorado,"Delta County, CO",17213.61
+Colorado,"Denver County, CO",17161.66
+Colorado,"Dolores County, CO",17625.89
+Colorado,"Douglas County, CO",17363.45
+Colorado,"Eagle County, CO",16725.39
+Colorado,"Elbert County, CO",17706.84
+Colorado,"El Paso County, CO",17940.52
+Colorado,"Fremont County, CO",17842.83
+Colorado,"Garfield County, CO",17055.58
+Colorado,"Gilpin County, CO",16607.69
+Colorado,"Grand County, CO",16645.27
+Colorado,"Gunnison County, CO",17400.16
+Colorado,"Hinsdale County, CO",17538.65
+Colorado,"Huerfano County, CO",17963.1
+Colorado,"Jackson County, CO",16653.73
+Colorado,"Jefferson County, CO",17001.99
+Colorado,"Kiowa County, CO",18231.28
+Colorado,"Kit Carson County, CO",17592.16
+Colorado,"Lake County, CO",17398.49
+Colorado,"La Plata County, CO",18450.91
+Colorado,"Larimer County, CO",16340.06
+Colorado,"Las Animas County, CO",18552.74
+Colorado,"Lincoln County, CO",18037.98
+Colorado,"Logan County, CO",16906.71
+Colorado,"Mesa County, CO",17336.09
+Colorado,"Mineral County, CO",17841.28
+Colorado,"Moffat County, CO",17046.73
+Colorado,"Montezuma County, CO",18408.78
+Colorado,"Montrose County, CO",17421.02
+Colorado,"Morgan County, CO",17315.75
+Colorado,"Otero County, CO",18609.64
+Colorado,"Ouray County, CO",16977.4
+Colorado,"Park County, CO",17356.29
+Colorado,"Phillips County, CO",16826.27
+Colorado,"Pitkin County, CO",16816.77
+Colorado,"Prowers County, CO",18384.02
+Colorado,"Pueblo County, CO",18439.83
+Colorado,"Rio Blanco County, CO",16999.88
+Colorado,"Rio Grande County, CO",18651.47
+Colorado,"Routt County, CO",17314.08
+Colorado,"Saguache County, CO",17909.19
+Colorado,"San Juan County, CO",17216.36
+Colorado,"San Miguel County, CO",17141.8
+Colorado,"Sedgwick County, CO",16585.23
+Colorado,"Summit County, CO",16846.92
+Colorado,"Teller County, CO",17314.43
+Colorado,"Washington County, CO",17356.29
+Colorado,"Weld County, CO",16897.8
+Colorado,"Yuma County, CO",17167.06
+Colorado,,17553.46
+Connecticut,"Fairfield County, CT",15752.56
+Connecticut,"Hartford County, CT",14940.96
+Connecticut,"Litchfield County, CT",14921.87
+Connecticut,"Middlesex County, CT",15581.03
+Connecticut,"New Haven County, CT",15583.32
+Connecticut,"New London County, CT",15680.92
+Connecticut,"Tolland County, CT",15002.86
+Connecticut,"Windham County, CT",15125.74
+Connecticut,,15311.68
+Delaware,"Kent County, DE",16437.95
+Delaware,"New Castle County, DE",15811.84
+Delaware,"Sussex County, DE",16754.41
+Delaware,,16458.57
+District of Columbia,"District of Columbia, DC",15701.4
+District of Columbia,,15701.4
+Florida,"Alachua County, FL",19256.38
+Florida,"Baker County, FL",19023.65
+Florida,"Bay County, FL",19489.38
+Florida,"Bradford County, FL",19095
+Florida,"Brevard County, FL",21554.58
+Florida,"Broward County, FL",19719.55
+Florida,"Calhoun County, FL",19097.23
+Florida,"Charlotte County, FL",20005.32
+Florida,"Citrus County, FL",19576.8
+Florida,"Clay County, FL",19280.73
+Florida,"Collier County, FL",19987.07
+Florida,"Columbia County, FL",19096.46
+Florida,"Dade County, FL",20271.62
+Florida,"DeSoto County, FL",19614.96
+Florida,"Dixie County, FL",21088.83
+Florida,"Duval County, FL",19715.49
+Florida,"Escambia County, FL",19054.33
+Florida,"Flagler County, FL",20179.42
+Florida,"Franklin County, FL",21368.48
+Florida,"Gadsden County, FL",19080.52
+Florida,"Gilchrist County, FL",19146.53
+Florida,"Glades County, FL",20263.64
+Florida,"Gulf County, FL",20399.01
+Florida,"Hamilton County, FL",19083.49
+Florida,"Hardee County, FL",19664.89
+Florida,"Hendry County, FL",19534.73
+Florida,"Hernando County, FL",19498.63
+Florida,"Highlands County, FL",19852.98
+Florida,"Hillsborough County, FL",19606.37
+Florida,"Holmes County, FL",19009.76
+Florida,"Indian River County, FL",20222.42
+Florida,"Jackson County, FL",19027.52
+Florida,"Jefferson County, FL",19156.31
+Florida,"Lafayette County, FL",19845.87
+Florida,"Lake County, FL",19710.42
+Florida,"Lee County, FL",19835.78
+Florida,"Leon County, FL",19100.79
+Florida,"Levy County, FL",19444.6
+Florida,"Liberty County, FL",19176.07
+Florida,"Madison County, FL",19021.35
+Florida,"Manatee County, FL",19614.44
+Florida,"Marion County, FL",19403.34
+Florida,"Martin County, FL",19868.18
+Florida,"Monroe County, FL",20937.57
+Florida,"Nassau County, FL",19494.09
+Florida,"Okaloosa County, FL",19127
+Florida,"Okeechobee County, FL",19636.33
+Florida,"Orange County, FL",20072.66
+Florida,"Osceola County, FL",20082.41
+Florida,"Palm Beach County, FL",19683.79
+Florida,"Pasco County, FL",19491.79
+Florida,"Pinellas County, FL",20135.95
+Florida,"Polk County, FL",19757.81
+Florida,"Putnam County, FL",19379.7
+Florida,"St. Johns County, FL",20254.63
+Florida,"St. Lucie County, FL",20149.77
+Florida,"Santa Rosa County, FL",19126.88
+Florida,"Sarasota County, FL",19664.15
+Florida,"Seminole County, FL",19718.71
+Florida,"Sumter County, FL",19728.52
+Florida,"Suwannee County, FL",19095.15
+Florida,"Taylor County, FL",20095.34
+Florida,"Union County, FL",19097.19
+Florida,"Volusia County, FL",20109.7
+Florida,"Wakulla County, FL",19941.19
+Florida,"Walton County, FL",19154.88
+Florida,"Washington County, FL",19075.94
+Florida,,19700.78
+Georgia,"Appling County, GA",19002.79
+Georgia,"Atkinson County, GA",19065.22
+Georgia,"Bacon County, GA",18997.88
+Georgia,"Baker County, GA",18782.65
+Georgia,"Baldwin County, GA",18585.28
+Georgia,"Banks County, GA",18154.84
+Georgia,"Barrow County, GA",18151.59
+Georgia,"Bartow County, GA",17572.91
+Georgia,"Ben Hill County, GA",18982.02
+Georgia,"Berrien County, GA",19025.27
+Georgia,"Bibb County, GA",18520.05
+Georgia,"Bleckley County, GA",18767.53
+Georgia,"Brantley County, GA",19112.57
+Georgia,"Brooks County, GA",19070.77
+Georgia,"Bryan County, GA",19511.84
+Georgia,"Bulloch County, GA",18963.51
+Georgia,"Burke County, GA",18767.02
+Georgia,"Butts County, GA",18442.8
+Georgia,"Calhoun County, GA",18762.19
+Georgia,"Camden County, GA",19988.4
+Georgia,"Candler County, GA",18932.06
+Georgia,"Carroll County, GA",17934.92
+Georgia,"Catoosa County, GA",17230.64
+Georgia,"Charlton County, GA",19032.67
+Georgia,"Chatham County, GA",20072.62
+Georgia,"Chattahoochee County, GA",18471.8
+Georgia,"Chattooga County, GA",17312.92
+Georgia,"Cherokee County, GA",17683.9
+Georgia,"Clarke County, GA",18341.87
+Georgia,"Clay County, GA",18654.79
+Georgia,"Clayton County, GA",18236.04
+Georgia,"Clinch County, GA",19121.45
+Georgia,"Cobb County, GA",17803.84
+Georgia,"Coffee County, GA",18997.87
+Georgia,"Colquitt County, GA",18924.74
+Georgia,"Columbia County, GA",18671.69
+Georgia,"Cook County, GA",19044.16
+Georgia,"Coweta County, GA",18115.89
+Georgia,"Crawford County, GA",18428.79
+Georgia,"Crisp County, GA",18811.54
+Georgia,"Dade County, GA",17031.57
+Georgia,"Dawson County, GA",17666.78
+Georgia,"Decatur County, GA",18981.2
+Georgia,"DeKalb County, GA",18145.71
+Georgia,"Dodge County, GA",18960.66
+Georgia,"Dooly County, GA",18731.16
+Georgia,"Dougherty County, GA",18728.54
+Georgia,"Douglas County, GA",17948.82
+Georgia,"Early County, GA",18822.88
+Georgia,"Echols County, GA",19079.54
+Georgia,"Effingham County, GA",19201.44
+Georgia,"Elbert County, GA",18470.44
+Georgia,"Emanuel County, GA",18840.92
+Georgia,"Evans County, GA",19055.62
+Georgia,"Fannin County, GA",16961.64
+Georgia,"Fayette County, GA",18174.62
+Georgia,"Floyd County, GA",17477.84
+Georgia,"Forsyth County, GA",17929.78
+Georgia,"Franklin County, GA",18152.5
+Georgia,"Fulton County, GA",17999.27
+Georgia,"Gilmer County, GA",17088.63
+Georgia,"Glascock County, GA",18648.45
+Georgia,"Glynn County, GA",19863.18
+Georgia,"Gordon County, GA",17427.83
+Georgia,"Grady County, GA",18963.61
+Georgia,"Greene County, GA",18564.84
+Georgia,"Gwinnett County, GA",18064.19
+Georgia,"Habersham County, GA",18075.51
+Georgia,"Hall County, GA",18074.26
+Georgia,"Hancock County, GA",18583.15
+Georgia,"Haralson County, GA",17660.21
+Georgia,"Harris County, GA",18284.93
+Georgia,"Hart County, GA",18311.05
+Georgia,"Heard County, GA",18140.86
+Georgia,"Henry County, GA",18405.86
+Georgia,"Houston County, GA",18663.26
+Georgia,"Irwin County, GA",18974.59
+Georgia,"Jackson County, GA",18219.67
+Georgia,"Jasper County, GA",18479.84
+Georgia,"Jeff Davis County, GA",18969.9
+Georgia,"Jefferson County, GA",18683.11
+Georgia,"Jenkins County, GA",18844.08
+Georgia,"Johnson County, GA",18742.84
+Georgia,"Jones County, GA",18502.67
+Georgia,"Lamar County, GA",18399.81
+Georgia,"Lanier County, GA",19115.64
+Georgia,"Laurens County, GA",18833.89
+Georgia,"Lee County, GA",18674.56
+Georgia,"Liberty County, GA",19620.55
+Georgia,"Lincoln County, GA",18743.35
+Georgia,"Long County, GA",19207.46
+Georgia,"Lowndes County, GA",19098.95
+Georgia,"Lumpkin County, GA",17651.41
+Georgia,"McDuffie County, GA",18654.52
+Georgia,"McIntosh County, GA",19902.88
+Georgia,"Macon County, GA",18622.08
+Georgia,"Madison County, GA",18378.67
+Georgia,"Marion County, GA",18450.71
+Georgia,"Meriwether County, GA",18150.93
+Georgia,"Miller County, GA",18839.94
+Georgia,"Mitchell County, GA",18784.64
+Georgia,"Monroe County, GA",18404.86
+Georgia,"Montgomery County, GA",18959.53
+Georgia,"Morgan County, GA",18499.44
+Georgia,"Murray County, GA",17065.04
+Georgia,"Muscogee County, GA",18338.62
+Georgia,"Newton County, GA",18439.25
+Georgia,"Oconee County, GA",18378.69
+Georgia,"Oglethorpe County, GA",18434.69
+Georgia,"Paulding County, GA",17699.18
+Georgia,"Peach County, GA",18667.44
+Georgia,"Pickens County, GA",17583.38
+Georgia,"Pierce County, GA",19046.11
+Georgia,"Pike County, GA",18229.81
+Georgia,"Polk County, GA",17570.72
+Georgia,"Pulaski County, GA",18839.13
+Georgia,"Putnam County, GA",18528.32
+Georgia,"Quitman County, GA",18565.7
+Georgia,"Rabun County, GA",17788.72
+Georgia,"Randolph County, GA",18600.31
+Georgia,"Richmond County, GA",18728.32
+Georgia,"Rockdale County, GA",18345.68
+Georgia,"Schley County, GA",18499.24
+Georgia,"Screven County, GA",18880.96
+Georgia,"Seminole County, GA",18979.4
+Georgia,"Spalding County, GA",18298.86
+Georgia,"Stephens County, GA",18253.85
+Georgia,"Stewart County, GA",18505.93
+Georgia,"Sumter County, GA",18606.23
+Georgia,"Talbot County, GA",18282.69
+Georgia,"Taliaferro County, GA",18592.02
+Georgia,"Tattnall County, GA",19010.79
+Georgia,"Taylor County, GA",18440.08
+Georgia,"Telfair County, GA",18998.32
+Georgia,"Terrell County, GA",18560.46
+Georgia,"Thomas County, GA",19008.77
+Georgia,"Tift County, GA",18897.54
+Georgia,"Toombs County, GA",18976.31
+Georgia,"Towns County, GA",17351.24
+Georgia,"Treutlen County, GA",18877.17
+Georgia,"Troup County, GA",18129.45
+Georgia,"Turner County, GA",18854.5
+Georgia,"Twiggs County, GA",18648.71
+Georgia,"Union County, GA",17102.35
+Georgia,"Upson County, GA",18367.83
+Georgia,"Walker County, GA",17198.51
+Georgia,"Walton County, GA",18338.6
+Georgia,"Ware County, GA",19055.97
+Georgia,"Warren County, GA",18612.39
+Georgia,"Washington County, GA",18663.41
+Georgia,"Wayne County, GA",19133.05
+Georgia,"Webster County, GA",18506.36
+Georgia,"Wheeler County, GA",19022.3
+Georgia,"White County, GA",17871.43
+Georgia,"Whitfield County, GA",17178.77
+Georgia,"Wilcox County, GA",18896.95
+Georgia,"Wilkes County, GA",18563.44
+Georgia,"Wilkinson County, GA",18709.49
+Georgia,"Worth County, GA",18826.91
+Georgia,,18574.37
+Idaho,"Ada County, ID",16414.68
+Idaho,"Adams County, ID",16001.86
+Idaho,"Bannock County, ID",16241.24
+Idaho,"Bear Lake County, ID",16810.51
+Idaho,"Benewah County, ID",13782.36
+Idaho,"Bingham County, ID",15972.78
+Idaho,"Blaine County, ID",16749.55
+Idaho,"Boise County, ID",16475.82
+Idaho,"Bonner County, ID",13678.76
+Idaho,"Bonneville County, ID",16029.57
+Idaho,"Boundary County, ID",13706.57
+Idaho,"Butte County, ID",16377.2
+Idaho,"Camas County, ID",17138.56
+Idaho,"Canyon County, ID",16370.95
+Idaho,"Caribou County, ID",16434.5
+Idaho,"Cassia County, ID",16271.8
+Idaho,"Clark County, ID",15835.97
+Idaho,"Clearwater County, ID",14412.24
+Idaho,"Custer County, ID",16281.06
+Idaho,"Elmore County, ID",16816.69
+Idaho,"Franklin County, ID",16736.72
+Idaho,"Fremont County, ID",15846.03
+Idaho,"Gem County, ID",16017.09
+Idaho,"Gooding County, ID",16846.95
+Idaho,"Idaho County, ID",14979.54
+Idaho,"Jefferson County, ID",15884.06
+Idaho,"Jerome County, ID",16468.09
+Idaho,"Kootenai County, ID",13673.76
+Idaho,"Latah County, ID",14226.63
+Idaho,"Lemhi County, ID",15709.31
+Idaho,"Lewis County, ID",14474.2
+Idaho,"Lincoln County, ID",16775.59
+Idaho,"Madison County, ID",15738.89
+Idaho,"Minidoka County, ID",16368.33
+Idaho,"Nez Perce County, ID",14526.43
+Idaho,"Oneida County, ID",16255.07
+Idaho,"Owyhee County, ID",16597.7
+Idaho,"Payette County, ID",16054.01
+Idaho,"Power County, ID",16090.89
+Idaho,"Shoshone County, ID",14129.2
+Idaho,"Teton County, ID",16086.91
+Idaho,"Twin Falls County, ID",16519.89
+Idaho,"Valley County, ID",16052.8
+Idaho,"Washington County, ID",15956.62
+Idaho,,15799.46
+Illinois,"Adams County, IL",15480.06
+Illinois,"Alexander County, IL",16265.41
+Illinois,"Bond County, IL",15591.35
+Illinois,"Boone County, IL",14545.32
+Illinois,"Brown County, IL",15419.88
+Illinois,"Bureau County, IL",14823.63
+Illinois,"Calhoun County, IL",15789.98
+Illinois,"Carroll County, IL",14666.9
+Illinois,"Cass County, IL",15288.36
+Illinois,"Champaign County, IL",15154.09
+Illinois,"Christian County, IL",15390.77
+Illinois,"Clark County, IL",15240.03
+Illinois,"Clay County, IL",15498.49
+Illinois,"Clinton County, IL",15691.12
+Illinois,"Coles County, IL",15311.25
+Illinois,"Cook County, IL",14955.48
+Illinois,"Crawford County, IL",15317.4
+Illinois,"Cumberland County, IL",15342.48
+Illinois,"DeKalb County, IL",14691.75
+Illinois,"De Witt County, IL",15214.13
+Illinois,"Douglas County, IL",15260.55
+Illinois,"DuPage County, IL",14625.87
+Illinois,"Edgar County, IL",15167.02
+Illinois,"Edwards County, IL",15529.62
+Illinois,"Effingham County, IL",15419.98
+Illinois,"Fayette County, IL",15471.69
+Illinois,"Ford County, IL",14980.83
+Illinois,"Franklin County, IL",15830
+Illinois,"Fulton County, IL",15198.25
+Illinois,"Gallatin County, IL",15773.62
+Illinois,"Greene County, IL",15654.03
+Illinois,"Grundy County, IL",14894.23
+Illinois,"Hamilton County, IL",15725.68
+Illinois,"Hancock County, IL",15307.53
+Illinois,"Hardin County, IL",15910.05
+Illinois,"Henderson County, IL",15148.94
+Illinois,"Henry County, IL",14901.65
+Illinois,"Iroquois County, IL",15009.96
+Illinois,"Jackson County, IL",15878.34
+Illinois,"Jasper County, IL",15341.32
+Illinois,"Jefferson County, IL",15710.93
+Illinois,"Jersey County, IL",15713.05
+Illinois,"Jo Daviess County, IL",14655.04
+Illinois,"Johnson County, IL",15971.44
+Illinois,"Kane County, IL",14624.35
+Illinois,"Kankakee County, IL",14936.95
+Illinois,"Kendall County, IL",14767.47
+Illinois,"Knox County, IL",15062.18
+Illinois,"Lake County, IL",15136.54
+Illinois,"LaSalle County, IL",14858.09
+Illinois,"Lawrence County, IL",15348
+Illinois,"Lee County, IL",14758.36
+Illinois,"Livingston County, IL",15011.67
+Illinois,"Logan County, IL",15170.53
+Illinois,"McDonough County, IL",15256.68
+Illinois,"McHenry County, IL",14604.3
+Illinois,"McLean County, IL",15089.97
+Illinois,"Macon County, IL",15297.8
+Illinois,"Macoupin County, IL",15555.55
+Illinois,"Madison County, IL",15692.08
+Illinois,"Marion County, IL",15570.09
+Illinois,"Marshall County, IL",14979.28
+Illinois,"Mason County, IL",15161.72
+Illinois,"Massac County, IL",16043.1
+Illinois,"Menard County, IL",15259.91
+Illinois,"Mercer County, IL",15007.23
+Illinois,"Monroe County, IL",15859.61
+Illinois,"Montgomery County, IL",15479.94
+Illinois,"Morgan County, IL",15424.37
+Illinois,"Moultrie County, IL",15361.22
+Illinois,"Ogle County, IL",14651.41
+Illinois,"Peoria County, IL",15040.33
+Illinois,"Perry County, IL",15775.7
+Illinois,"Piatt County, IL",15270.88
+Illinois,"Pike County, IL",15568.14
+Illinois,"Pope County, IL",15939.49
+Illinois,"Pulaski County, IL",16150.24
+Illinois,"Putnam County, IL",14852.96
+Illinois,"Randolph County, IL",15827.59
+Illinois,"Richland County, IL",15410.94
+Illinois,"Rock Island County, IL",14874.07
+Illinois,"St. Clair County, IL",15814.05
+Illinois,"Saline County, IL",15837.95
+Illinois,"Sangamon County, IL",15344.65
+Illinois,"Schuyler County, IL",15318.79
+Illinois,"Scott County, IL",15552.89
+Illinois,"Shelby County, IL",15369.28
+Illinois,"Stark County, IL",15006.31
+Illinois,"Stephenson County, IL",14582.79
+Illinois,"Tazewell County, IL",15103.99
+Illinois,"Union County, IL",15960.05
+Illinois,"Vermilion County, IL",15073.08
+Illinois,"Wabash County, IL",15437.94
+Illinois,"Warren County, IL",15148.63
+Illinois,"Washington County, IL",15733.76
+Illinois,"Wayne County, IL",15638.56
+Illinois,"White County, IL",15710.06
+Illinois,"Whiteside County, IL",14747.44
+Illinois,"Will County, IL",14809.81
+Illinois,"Williamson County, IL",15877.25
+Illinois,"Winnebago County, IL",14569.96
+Illinois,"Woodford County, IL",15080.64
+Illinois,,15248.33
+Indiana,"Adams County, IN",14846.68
+Indiana,"Allen County, IN",14759.21
+Indiana,"Bartholomew County, IN",15162.06
+Indiana,"Benton County, IN",15039.16
+Indiana,"Blackford County, IN",14862.4
+Indiana,"Boone County, IN",14907.73
+Indiana,"Brown County, IN",15192.28
+Indiana,"Carroll County, IN",14975.01
+Indiana,"Cass County, IN",14881.13
+Indiana,"Clark County, IN",15224.12
+Indiana,"Clay County, IN",15103.25
+Indiana,"Clinton County, IN",14936.81
+Indiana,"Crawford County, IN",15274.2
+Indiana,"Daviess County, IN",15181.37
+Indiana,"Dearborn County, IN",15191.05
+Indiana,"Decatur County, IN",15069.65
+Indiana,"De Kalb County, IN",14724.31
+Indiana,"Delaware County, IN",14816.32
+Indiana,"Dubois County, IN",15265.25
+Indiana,"Elkhart County, IN",14650.54
+Indiana,"Fayette County, IN",14886.51
+Indiana,"Floyd County, IN",15206.08
+Indiana,"Fountain County, IN",15012.86
+Indiana,"Franklin County, IN",15046.22
+Indiana,"Fulton County, IN",14774.23
+Indiana,"Gibson County, IN",15461.24
+Indiana,"Grant County, IN",14821.88
+Indiana,"Greene County, IN",15104.09
+Indiana,"Hamilton County, IN",14889.07
+Indiana,"Hancock County, IN",14888.79
+Indiana,"Harrison County, IN",15272.58
+Indiana,"Hendricks County, IN",14952.69
+Indiana,"Henry County, IN",14811.88
+Indiana,"Howard County, IN",14897.93
+Indiana,"Huntington County, IN",14828.99
+Indiana,"Jackson County, IN",15196.93
+Indiana,"Jasper County, IN",14934.74
+Indiana,"Jay County, IN",14818.89
+Indiana,"Jefferson County, IN",15228.34
+Indiana,"Jennings County, IN",15195.6
+Indiana,"Johnson County, IN",15052.63
+Indiana,"Knox County, IN",15278.24
+Indiana,"Kosciusko County, IN",14724.54
+Indiana,"Lagrange County, IN",14682.56
+Indiana,"Lake County, IN",14817.25
+Indiana,"La Porte County, IN",14732.19
+Indiana,"Lawrence County, IN",15134.83
+Indiana,"Madison County, IN",14834.49
+Indiana,"Marion County, IN",14930.71
+Indiana,"Marshall County, IN",14723.35
+Indiana,"Martin County, IN",15171.13
+Indiana,"Miami County, IN",14814.17
+Indiana,"Monroe County, IN",15147.64
+Indiana,"Montgomery County, IN",14943.46
+Indiana,"Morgan County, IN",15065.12
+Indiana,"Newton County, IN",14963.53
+Indiana,"Noble County, IN",14709.27
+Indiana,"Ohio County, IN",15240.11
+Indiana,"Orange County, IN",15209.28
+Indiana,"Owen County, IN",15048.88
+Indiana,"Parke County, IN",15008.05
+Indiana,"Perry County, IN",15383.8
+Indiana,"Pike County, IN",15345.75
+Indiana,"Porter County, IN",14837.71
+Indiana,"Posey County, IN",15702.3
+Indiana,"Pulaski County, IN",14866.58
+Indiana,"Putnam County, IN",14983
+Indiana,"Randolph County, IN",14774.21
+Indiana,"Ripley County, IN",15243.21
+Indiana,"Rush County, IN",14952.6
+Indiana,"St. Joseph County, IN",14653.98
+Indiana,"Scott County, IN",15215.53
+Indiana,"Shelby County, IN",15012.01
+Indiana,"Spencer County, IN",15513.71
+Indiana,"Starke County, IN",14765.42
+Indiana,"Steuben County, IN",14668.13
+Indiana,"Sullivan County, IN",15183.52
+Indiana,"Switzerland County, IN",15202.97
+Indiana,"Tippecanoe County, IN",14945.6
+Indiana,"Tipton County, IN",14910.8
+Indiana,"Union County, IN",14914.18
+Indiana,"Vanderburgh County, IN",15630.43
+Indiana,"Vermillion County, IN",15065.26
+Indiana,"Vigo County, IN",15162.68
+Indiana,"Wabash County, IN",14831.23
+Indiana,"Warren County, IN",14968.05
+Indiana,"Warrick County, IN",15554.03
+Indiana,"Washington County, IN",15205.39
+Indiana,"Wayne County, IN",14770.15
+Indiana,"Wells County, IN",14860.18
+Indiana,"White County, IN",14958.82
+Indiana,"Whitley County, IN",14739.5
+Indiana,,15000.75
+Iowa,"Adair County, IA",15216.27
+Iowa,"Adams County, IA",15335.57
+Iowa,"Allamakee County, IA",14512.92
+Iowa,"Appanoose County, IA",15332.3
+Iowa,"Audubon County, IA",15037.73
+Iowa,"Benton County, IA",14819.56
+Iowa,"Black Hawk County, IA",14698.3
+Iowa,"Boone County, IA",15065.23
+Iowa,"Bremer County, IA",14651.88
+Iowa,"Buchanan County, IA",14766.87
+Iowa,"Buena Vista County, IA",14983.92
+Iowa,"Butler County, IA",14628.91
+Iowa,"Calhoun County, IA",14986.9
+Iowa,"Carroll County, IA",14963.54
+Iowa,"Cass County, IA",15284.24
+Iowa,"Cedar County, IA",14860.63
+Iowa,"Cerro Gordo County, IA",14701.32
+Iowa,"Cherokee County, IA",15076.26
+Iowa,"Chickasaw County, IA",14586.6
+Iowa,"Clarke County, IA",15311.05
+Iowa,"Clay County, IA",14963
+Iowa,"Clayton County, IA",14667.65
+Iowa,"Clinton County, IA",14776.19
+Iowa,"Crawford County, IA",15028.14
+Iowa,"Dallas County, IA",15115.77
+Iowa,"Davis County, IA",15307.34
+Iowa,"Decatur County, IA",15466.47
+Iowa,"Delaware County, IA",14723.57
+Iowa,"Des Moines County, IA",15154.88
+Iowa,"Dickinson County, IA",14849.08
+Iowa,"Dubuque County, IA",14682.52
+Iowa,"Emmet County, IA",14792.95
+Iowa,"Fayette County, IA",14661.69
+Iowa,"Floyd County, IA",14571.89
+Iowa,"Franklin County, IA",14782.62
+Iowa,"Fremont County, IA",15595.36
+Iowa,"Greene County, IA",14993.44
+Iowa,"Grundy County, IA",14753.27
+Iowa,"Guthrie County, IA",15029.53
+Iowa,"Hamilton County, IA",14907.48
+Iowa,"Hancock County, IA",14770.43
+Iowa,"Hardin County, IA",14855.69
+Iowa,"Harrison County, IA",15257.34
+Iowa,"Henry County, IA",15227.13
+Iowa,"Howard County, IA",14480.88
+Iowa,"Humboldt County, IA",14900.8
+Iowa,"Ida County, IA",15062.98
+Iowa,"Iowa County, IA",14968.3
+Iowa,"Jackson County, IA",14693.96
+Iowa,"Jasper County, IA",15128.68
+Iowa,"Jefferson County, IA",15247.96
+Iowa,"Johnson County, IA",14946.51
+Iowa,"Jones County, IA",14719.42
+Iowa,"Keokuk County, IA",15154.5
+Iowa,"Kossuth County, IA",14837.82
+Iowa,"Lee County, IA",15319.35
+Iowa,"Linn County, IA",14761.85
+Iowa,"Louisa County, IA",15071.93
+Iowa,"Lucas County, IA",15326.34
+Iowa,"Lyon County, IA",14906.54
+Iowa,"Madison County, IA",15192.27
+Iowa,"Mahaska County, IA",15154.23
+Iowa,"Marion County, IA",15267.55
+Iowa,"Marshall County, IA",14929.14
+Iowa,"Mills County, IA",15483.94
+Iowa,"Mitchell County, IA",14561.07
+Iowa,"Monona County, IA",15202.14
+Iowa,"Monroe County, IA",15297.7
+Iowa,"Montgomery County, IA",15459.95
+Iowa,"Muscatine County, IA",14933.59
+Iowa,"O'Brien County, IA",14961.92
+Iowa,"Osceola County, IA",14752.98
+Iowa,"Page County, IA",15527.93
+Iowa,"Palo Alto County, IA",14906.19
+Iowa,"Plymouth County, IA",15144.09
+Iowa,"Pocahontas County, IA",14928.06
+Iowa,"Polk County, IA",15105.32
+Iowa,"Pottawattamie County, IA",15370.16
+Iowa,"Poweshiek County, IA",15058.37
+Iowa,"Ringgold County, IA",15439.42
+Iowa,"Sac County, IA",14983.79
+Iowa,"Scott County, IA",14872.24
+Iowa,"Shelby County, IA",15188.02
+Iowa,"Sioux County, IA",15027.62
+Iowa,"Story County, IA",15019.39
+Iowa,"Tama County, IA",14892.58
+Iowa,"Taylor County, IA",15425.82
+Iowa,"Union County, IA",15319.54
+Iowa,"Van Buren County, IA",15327.16
+Iowa,"Wapello County, IA",15259.68
+Iowa,"Warren County, IA",15224.25
+Iowa,"Washington County, IA",15111.53
+Iowa,"Wayne County, IA",15416.44
+Iowa,"Webster County, IA",14951.11
+Iowa,"Winnebago County, IA",14744.09
+Iowa,"Winneshiek County, IA",14499.08
+Iowa,"Woodbury County, IA",15190.69
+Iowa,"Worth County, IA",14694.09
+Iowa,"Wright County, IA",14848.95
+Iowa,,14994.59
+Kansas,"Allen County, KS",16593.21
+Kansas,"Anderson County, KS",16407.59
+Kansas,"Atchison County, KS",15900.32
+Kansas,"Barber County, KS",17833.37
+Kansas,"Barton County, KS",17059.7
+Kansas,"Bourbon County, KS",16502.57
+Kansas,"Brown County, KS",15829.22
+Kansas,"Butler County, KS",16956.98
+Kansas,"Chase County, KS",16709.77
+Kansas,"Chautauqua County, KS",17173.64
+Kansas,"Cherokee County, KS",16772.9
+Kansas,"Cheyenne County, KS",17078.27
+Kansas,"Clark County, KS",18069.35
+Kansas,"Clay County, KS",16374.63
+Kansas,"Cloud County, KS",16496.81
+Kansas,"Coffey County, KS",16535.07
+Kansas,"Comanche County, KS",17975.25
+Kansas,"Cowley County, KS",17180.65
+Kansas,"Crawford County, KS",16638.24
+Kansas,"Decatur County, KS",16803.52
+Kansas,"Dickinson County, KS",16594.34
+Kansas,"Doniphan County, KS",15803.58
+Kansas,"Douglas County, KS",16230.95
+Kansas,"Edwards County, KS",17504.27
+Kansas,"Elk County, KS",17010.14
+Kansas,"Ellis County, KS",16962.85
+Kansas,"Ellsworth County, KS",16927.99
+Kansas,"Finney County, KS",17811.68
+Kansas,"Ford County, KS",17804.9
+Kansas,"Franklin County, KS",16285.93
+Kansas,"Geary County, KS",16416.06
+Kansas,"Gove County, KS",17289.56
+Kansas,"Graham County, KS",16901.17
+Kansas,"Grant County, KS",18303.6
+Kansas,"Gray County, KS",17919.44
+Kansas,"Greeley County, KS",17861.38
+Kansas,"Greenwood County, KS",16825.42
+Kansas,"Hamilton County, KS",18161.3
+Kansas,"Harper County, KS",17645.16
+Kansas,"Harvey County, KS",17016.7
+Kansas,"Haskell County, KS",18143.35
+Kansas,"Hodgeman County, KS",17565.27
+Kansas,"Jackson County, KS",15945.94
+Kansas,"Jefferson County, KS",16034.52
+Kansas,"Jewell County, KS",16379.92
+Kansas,"Johnson County, KS",16140.89
+Kansas,"Kearny County, KS",18038.49
+Kansas,"Kingman County, KS",17458.59
+Kansas,"Kiowa County, KS",17731.68
+Kansas,"Labette County, KS",16921.95
+Kansas,"Lane County, KS",17465.63
+Kansas,"Leavenworth County, KS",16010.01
+Kansas,"Lincoln County, KS",16783.12
+Kansas,"Linn County, KS",16351.53
+Kansas,"Logan County, KS",17433.06
+Kansas,"Lyon County, KS",16558.97
+Kansas,"McPherson County, KS",16897.58
+Kansas,"Marion County, KS",16779.65
+Kansas,"Marshall County, KS",15967.87
+Kansas,"Meade County, KS",18179.96
+Kansas,"Miami County, KS",16220.38
+Kansas,"Mitchell County, KS",16627.01
+Kansas,"Montgomery County, KS",17020.74
+Kansas,"Morris County, KS",16527.04
+Kansas,"Morton County, KS",18630.28
+Kansas,"Nemaha County, KS",15860.75
+Kansas,"Neosho County, KS",16716.68
+Kansas,"Ness County, KS",17355.8
+Kansas,"Norton County, KS",16642.98
+Kansas,"Osage County, KS",16349.44
+Kansas,"Osborne County, KS",16671.84
+Kansas,"Ottawa County, KS",16638.26
+Kansas,"Pawnee County, KS",17346.08
+Kansas,"Phillips County, KS",16598.99
+Kansas,"Pottawatomie County, KS",16090.21
+Kansas,"Pratt County, KS",17554.3
+Kansas,"Rawlins County, KS",16936.87
+Kansas,"Reno County, KS",17208.52
+Kansas,"Republic County, KS",16243.28
+Kansas,"Rice County, KS",17078.82
+Kansas,"Riley County, KS",16248.01
+Kansas,"Rooks County, KS",16808.61
+Kansas,"Rush County, KS",17184
+Kansas,"Russell County, KS",16845.1
+Kansas,"Saline County, KS",16758.95
+Kansas,"Scott County, KS",17553.32
+Kansas,"Sedgwick County, KS",17162.31
+Kansas,"Seward County, KS",18393.57
+Kansas,"Shawnee County, KS",16114.38
+Kansas,"Sheridan County, KS",17062.69
+Kansas,"Sherman County, KS",17367.64
+Kansas,"Smith County, KS",16461.85
+Kansas,"Stafford County, KS",17299.62
+Kansas,"Stanton County, KS",18442.63
+Kansas,"Stevens County, KS",18523.13
+Kansas,"Sumner County, KS",17379.03
+Kansas,"Thomas County, KS",17232.19
+Kansas,"Trego County, KS",17119.09
+Kansas,"Wabaunsee County, KS",16283.99
+Kansas,"Wallace County, KS",17559.44
+Kansas,"Washington County, KS",16099.74
+Kansas,"Wichita County, KS",17714.64
+Kansas,"Wilson County, KS",16836.49
+Kansas,"Woodson County, KS",16690.59
+Kansas,"Wyandotte County, KS",16008.08
+Kansas,,17035.46
+Kentucky,"Adair County, KY",15517.6
+Kentucky,"Allen County, KY",15925.17
+Kentucky,"Anderson County, KY",15231.21
+Kentucky,"Ballard County, KY",16175.69
+Kentucky,"Barren County, KY",15737.16
+Kentucky,"Bath County, KY",15081.91
+Kentucky,"Bell County, KY",15445.46
+Kentucky,"Boone County, KY",15213.88
+Kentucky,"Bourbon County, KY",15121.69
+Kentucky,"Boyd County, KY",15126.52
+Kentucky,"Boyle County, KY",15274.01
+Kentucky,"Bracken County, KY",15154.78
+Kentucky,"Breathitt County, KY",15125.95
+Kentucky,"Breckinridge County, KY",15457.81
+Kentucky,"Bullitt County, KY",15337.65
+Kentucky,"Butler County, KY",15728.43
+Kentucky,"Caldwell County, KY",15823.71
+Kentucky,"Calloway County, KY",16161.57
+Kentucky,"Campbell County, KY",15137.91
+Kentucky,"Carlisle County, KY",16264.69
+Kentucky,"Carroll County, KY",15203.28
+Kentucky,"Carter County, KY",15116.1
+Kentucky,"Casey County, KY",15325.86
+Kentucky,"Christian County, KY",15754.15
+Kentucky,"Clark County, KY",15075.53
+Kentucky,"Clay County, KY",15273.74
+Kentucky,"Clinton County, KY",15588.8
+Kentucky,"Crittenden County, KY",15846.4
+Kentucky,"Cumberland County, KY",15768.18
+Kentucky,"Daviess County, KY",15692.03
+Kentucky,"Edmonson County, KY",15665.21
+Kentucky,"Elliott County, KY",15094.61
+Kentucky,"Estill County, KY",15156.61
+Kentucky,"Fayette County, KY",15174.04
+Kentucky,"Fleming County, KY",15052.04
+Kentucky,"Floyd County, KY",15063.84
+Kentucky,"Franklin County, KY",15250.22
+Kentucky,"Fulton County, KY",16371.53
+Kentucky,"Gallatin County, KY",15229.59
+Kentucky,"Garrard County, KY",15222.19
+Kentucky,"Grant County, KY",15247.21
+Kentucky,"Graves County, KY",16151.38
+Kentucky,"Grayson County, KY",15546.41
+Kentucky,"Green County, KY",15481.67
+Kentucky,"Greenup County, KY",15102.11
+Kentucky,"Hancock County, KY",15489.75
+Kentucky,"Hardin County, KY",15385.4
+Kentucky,"Harlan County, KY",15460.97
+Kentucky,"Harrison County, KY",15182.51
+Kentucky,"Hart County, KY",15589.63
+Kentucky,"Henderson County, KY",15720.48
+Kentucky,"Henry County, KY",15230.1
+Kentucky,"Hickman County, KY",16279.35
+Kentucky,"Hopkins County, KY",15741.16
+Kentucky,"Jackson County, KY",15209.09
+Kentucky,"Jefferson County, KY",15309.25
+Kentucky,"Jessamine County, KY",15216
+Kentucky,"Johnson County, KY",15081
+Kentucky,"Kenton County, KY",15182.44
+Kentucky,"Knott County, KY",15150.94
+Kentucky,"Knox County, KY",15325.18
+Kentucky,"Larue County, KY",15343.63
+Kentucky,"Laurel County, KY",15295.61
+Kentucky,"Lawrence County, KY",15089.8
+Kentucky,"Lee County, KY",15140.67
+Kentucky,"Leslie County, KY",15204.2
+Kentucky,"Letcher County, KY",15278.68
+Kentucky,"Lewis County, KY",15084.29
+Kentucky,"Lincoln County, KY",15230.26
+Kentucky,"Livingston County, KY",16042.02
+Kentucky,"Logan County, KY",15865.58
+Kentucky,"Lyon County, KY",16048.66
+Kentucky,"McCracken County, KY",16107.79
+Kentucky,"McCreary County, KY",15398.08
+Kentucky,"McLean County, KY",15751.24
+Kentucky,"Madison County, KY",15197.38
+Kentucky,"Magoffin County, KY",15105.25
+Kentucky,"Marion County, KY",15282.59
+Kentucky,"Marshall County, KY",16130.08
+Kentucky,"Martin County, KY",14996.81
+Kentucky,"Mason County, KY",15043.8
+Kentucky,"Meade County, KY",15353.58
+Kentucky,"Menifee County, KY",15055.53
+Kentucky,"Mercer County, KY",15239.52
+Kentucky,"Metcalfe County, KY",15675.1
+Kentucky,"Monroe County, KY",15883.5
+Kentucky,"Montgomery County, KY",15052.04
+Kentucky,"Morgan County, KY",15090.26
+Kentucky,"Muhlenberg County, KY",15759.95
+Kentucky,"Nelson County, KY",15296.03
+Kentucky,"Nicholas County, KY",15132.03
+Kentucky,"Ohio County, KY",15671.55
+Kentucky,"Oldham County, KY",15227.45
+Kentucky,"Owen County, KY",15275.13
+Kentucky,"Owsley County, KY",15209.78
+Kentucky,"Pendleton County, KY",15210.28
+Kentucky,"Perry County, KY",15217.59
+Kentucky,"Pike County, KY",15151.7
+Kentucky,"Powell County, KY",15090.45
+Kentucky,"Pulaski County, KY",15356.33
+Kentucky,"Robertson County, KY",15152.67
+Kentucky,"Rockcastle County, KY",15170.73
+Kentucky,"Rowan County, KY",15068.9
+Kentucky,"Russell County, KY",15492.39
+Kentucky,"Scott County, KY",15239.02
+Kentucky,"Shelby County, KY",15276.74
+Kentucky,"Simpson County, KY",15928.22
+Kentucky,"Spencer County, KY",15309.59
+Kentucky,"Taylor County, KY",15320.66
+Kentucky,"Todd County, KY",15825.58
+Kentucky,"Trigg County, KY",15937.59
+Kentucky,"Trimble County, KY",15236.04
+Kentucky,"Union County, KY",15807.72
+Kentucky,"Warren County, KY",15854.67
+Kentucky,"Washington County, KY",15213.83
+Kentucky,"Wayne County, KY",15501.46
+Kentucky,"Webster County, KY",15766.84
+Kentucky,"Whitley County, KY",15402.45
+Kentucky,"Wolfe County, KY",15090.88
+Kentucky,"Woodford County, KY",15206.92
+Kentucky,,15449.73
+Louisiana,"Acadia Parish, LA",19218.64
+Louisiana,"Allen Parish, LA",19422.74
+Louisiana,"Ascension Parish, LA",19170.83
+Louisiana,"Assumption Parish, LA",19061.31
+Louisiana,"Avoyelles Parish, LA",19326.4
+Louisiana,"Beauregard Parish, LA",19417.97
+Louisiana,"Bienville Parish, LA",18945.04
+Louisiana,"Bossier Parish, LA",18846.82
+Louisiana,"Caddo Parish, LA",18872.7
+Louisiana,"Calcasieu Parish, LA",19749.76
+Louisiana,"Caldwell Parish, LA",19086.13
+Louisiana,"Cameron Parish, LA",21701.97
+Louisiana,"Catahoula Parish, LA",19296.43
+Louisiana,"Claiborne Parish, LA",18682.54
+Louisiana,"Concordia Parish, LA",19264.79
+Louisiana,"De Soto Parish, LA",19080.96
+Louisiana,"East Baton Rouge Parish, LA",19019.06
+Louisiana,"East Carroll Parish, LA",18830.61
+Louisiana,"East Feliciana Parish, LA",18931.31
+Louisiana,"Evangeline Parish, LA",19275.48
+Louisiana,"Franklin Parish, LA",19055.03
+Louisiana,"Grant Parish, LA",19151.9
+Louisiana,"Iberia Parish, LA",19417.94
+Louisiana,"Iberville Parish, LA",19172.95
+Louisiana,"Jackson Parish, LA",18951.63
+Louisiana,"Jefferson Parish, LA",19689.8
+Louisiana,"Jefferson Davis Parish, LA",19561.32
+Louisiana,"Lafayette Parish, LA",19138.82
+Louisiana,"Lafourche Parish, LA",19893.84
+Louisiana,"LaSalle Parish, LA",19203.96
+Louisiana,"Lincoln Parish, LA",18843.55
+Louisiana,"Livingston Parish, LA",19353.9
+Louisiana,"Madison Parish, LA",18947.35
+Louisiana,"Morehouse Parish, LA",18620.38
+Louisiana,"Natchitoches Parish, LA",19126.11
+Louisiana,"Orleans Parish, LA",19786
+Louisiana,"Ouachita Parish, LA",18818.69
+Louisiana,"Plaquemines Parish, LA",21498.02
+Louisiana,"Pointe Coupee Parish, LA",19231.01
+Louisiana,"Rapides Parish, LA",19227.64
+Louisiana,"Red River Parish, LA",19067.73
+Louisiana,"Richland Parish, LA",18834.45
+Louisiana,"Sabine Parish, LA",19212.95
+Louisiana,"St. Bernard Parish, LA",21410.81
+Louisiana,"St. Charles Parish, LA",19286.01
+Louisiana,"St. Helena Parish, LA",18911.64
+Louisiana,"St. James Parish, LA",19110.69
+Louisiana,"St. John the Baptist Parish, LA",19371.8
+Louisiana,"St. Landry Parish, LA",19269.08
+Louisiana,"St. Martin Parish, LA",19295.29
+Louisiana,"St. Mary Parish, LA",19472.84
+Louisiana,"St. Tammany Parish, LA",19317.97
+Louisiana,"Tangipahoa Parish, LA",19337.06
+Louisiana,"Tensas Parish, LA",19165.42
+Louisiana,"Terrebonne Parish, LA",19950.79
+Louisiana,"Union Parish, LA",18773.43
+Louisiana,"Vermilion Parish, LA",21010.08
+Louisiana,"Vernon Parish, LA",19263.99
+Louisiana,"Washington Parish, LA",19016.88
+Louisiana,"Webster Parish, LA",18765.38
+Louisiana,"West Baton Rouge Parish, LA",19115.34
+Louisiana,"West Carroll Parish, LA",18689.93
+Louisiana,"West Feliciana Parish, LA",19096.51
+Louisiana,"Winn Parish, LA",19105.83
+Louisiana,,19395.65
+Maine,"Androscoggin County, ME",14280.65
+Maine,"Aroostook County, ME",13343.81
+Maine,"Cumberland County, ME",14771.12
+Maine,"Franklin County, ME",13770.93
+Maine,"Hancock County, ME",14004.76
+Maine,"Kennebec County, ME",14082
+Maine,"Knox County, ME",14429.1
+Maine,"Lincoln County, ME",14544.48
+Maine,"Oxford County, ME",14078.15
+Maine,"Penobscot County, ME",13602.28
+Maine,"Piscataquis County, ME",13525.37
+Maine,"Sagadahoc County, ME",14698.48
+Maine,"Somerset County, ME",13595.06
+Maine,"Waldo County, ME",14085.75
+Maine,"Washington County, ME",13784.28
+Maine,"York County, ME",15086.46
+Maine,,13752
+Maryland,"Allegany County, MD",14888.6
+Maryland,"Anne Arundel County, MD",16443.87
+Maryland,"Baltimore County, MD",15643.84
+Maryland,"Calvert County, MD",16832.37
+Maryland,"Caroline County, MD",16208.74
+Maryland,"Carroll County, MD",15299.57
+Maryland,"Cecil County, MD",15779.72
+Maryland,"Charles County, MD",16168.32
+Maryland,"Dorchester County, MD",16578.7
+Maryland,"Frederick County, MD",15226.46
+Maryland,"Garrett County, MD",14601.08
+Maryland,"Harford County, MD",15701.01
+Maryland,"Howard County, MD",15668.63
+Maryland,"Kent County, MD",15979.93
+Maryland,"Montgomery County, MD",15633.57
+Maryland,"Prince George's County, MD",16071.84
+Maryland,"Queen Anne's County, MD",16075.33
+Maryland,"St. Mary's County, MD",16833.76
+Maryland,"Somerset County, MD",16930.7
+Maryland,"Talbot County, MD",16227.37
+Maryland,"Washington County, MD",15030.26
+Maryland,"Wicomico County, MD",16621.9
+Maryland,"Worcester County, MD",17656.21
+Maryland,"Baltimore city, MD",16096.61
+Maryland,,15897.12
+Massachusetts,"Barnstable County, MA",16310.94
+Massachusetts,"Berkshire County, MA",14694.72
+Massachusetts,"Bristol County, MA",15464.23
+Massachusetts,"Dukes County, MA",16466.19
+Massachusetts,"Essex County, MA",15681.76
+Massachusetts,"Franklin County, MA",14639.81
+Massachusetts,"Hampden County, MA",14807.22
+Massachusetts,"Hampshire County, MA",14689.17
+Massachusetts,"Middlesex County, MA",14903.85
+Massachusetts,"Nantucket County, MA",16258.14
+Massachusetts,"Norfolk County, MA",15133.04
+Massachusetts,"Plymouth County, MA",16203.98
+Massachusetts,"Suffolk County, MA",15174.14
+Massachusetts,"Worcester County, MA",14859.89
+Massachusetts,,15134.62
+Michigan,"Alcona County, MI",14729.55
+Michigan,"Alger County, MI",14841.34
+Michigan,"Allegan County, MI",14764.06
+Michigan,"Alpena County, MI",15017.5
+Michigan,"Antrim County, MI",14785.99
+Michigan,"Arenac County, MI",14939.64
+Michigan,"Baraga County, MI",13778.33
+Michigan,"Barry County, MI",14528.51
+Michigan,"Bay County, MI",14792.86
+Michigan,"Benzie County, MI",14981.66
+Michigan,"Berrien County, MI",14906.53
+Michigan,"Branch County, MI",14670.41
+Michigan,"Calhoun County, MI",14582.61
+Michigan,"Cass County, MI",14803.33
+Michigan,"Charlevoix County, MI",14992.74
+Michigan,"Cheboygan County, MI",14553.77
+Michigan,"Chippewa County, MI",14538.11
+Michigan,"Clare County, MI",14710.25
+Michigan,"Clinton County, MI",14606.89
+Michigan,"Crawford County, MI",14318.19
+Michigan,"Delta County, MI",14924.07
+Michigan,"Dickinson County, MI",14126.03
+Michigan,"Eaton County, MI",14493.18
+Michigan,"Emmet County, MI",14494.56
+Michigan,"Genesee County, MI",14597.24
+Michigan,"Gladwin County, MI",14794.9
+Michigan,"Gogebic County, MI",13731.06
+Michigan,"Grand Traverse County, MI",14325.24
+Michigan,"Gratiot County, MI",14771.36
+Michigan,"Hillsdale County, MI",14667.83
+Michigan,"Houghton County, MI",13992.86
+Michigan,"Huron County, MI",14976.18
+Michigan,"Ingham County, MI",14604.71
+Michigan,"Ionia County, MI",14581.18
+Michigan,"Iosco County, MI",14878.3
+Michigan,"Iron County, MI",13946.34
+Michigan,"Isabella County, MI",14769.18
+Michigan,"Jackson County, MI",14629.8
+Michigan,"Kalamazoo County, MI",14540.37
+Michigan,"Kalkaska County, MI",14371.69
+Michigan,"Kent County, MI",14490.93
+Michigan,"Keweenaw County, MI",14279.87
+Michigan,"Lake County, MI",14387.68
+Michigan,"Lapeer County, MI",14663.14
+Michigan,"Leelanau County, MI",14505.54
+Michigan,"Lenawee County, MI",14671.03
+Michigan,"Livingston County, MI",14600.18
+Michigan,"Luce County, MI",14286.78
+Michigan,"Mackinac County, MI",14683.92
+Michigan,"Macomb County, MI",14927.02
+Michigan,"Manistee County, MI",15133.16
+Michigan,"Marquette County, MI",13990
+Michigan,"Mason County, MI",15472.74
+Michigan,"Mecosta County, MI",14684.45
+Michigan,"Menominee County, MI",14610.82
+Michigan,"Midland County, MI",14877.69
+Michigan,"Missaukee County, MI",14484.11
+Michigan,"Monroe County, MI",14946.4
+Michigan,"Montcalm County, MI",14726.59
+Michigan,"Montmorency County, MI",14560.59
+Michigan,"Muskegon County, MI",15578.08
+Michigan,"Newaygo County, MI",14551.23
+Michigan,"Oakland County, MI",14654.66
+Michigan,"Oceana County, MI",15709.84
+Michigan,"Ogemaw County, MI",14605.47
+Michigan,"Ontonagon County, MI",13631.46
+Michigan,"Osceola County, MI",14578.21
+Michigan,"Oscoda County, MI",14413.15
+Michigan,"Otsego County, MI",14299.32
+Michigan,"Ottawa County, MI",14963.66
+Michigan,"Presque Isle County, MI",14872.38
+Michigan,"Roscommon County, MI",14558.67
+Michigan,"Saginaw County, MI",14722.71
+Michigan,"St. Clair County, MI",15261.35
+Michigan,"St. Joseph County, MI",14603.41
+Michigan,"Sanilac County, MI",15553.99
+Michigan,"Schoolcraft County, MI",15113.65
+Michigan,"Shiawassee County, MI",14610.66
+Michigan,"Tuscola County, MI",14674.02
+Michigan,"Van Buren County, MI",15167.92
+Michigan,"Washtenaw County, MI",14676.72
+Michigan,"Wayne County, MI",14758.37
+Michigan,"Wexford County, MI",14453.68
+Michigan,,14610.29
+Minnesota,"Aitkin County, MN",14219.6
+Minnesota,"Anoka County, MN",14634.03
+Minnesota,"Becker County, MN",14521.89
+Minnesota,"Beltrami County, MN",14258.3
+Minnesota,"Benton County, MN",14730.83
+Minnesota,"Big Stone County, MN",14944.37
+Minnesota,"Blue Earth County, MN",14687.27
+Minnesota,"Brown County, MN",14738.09
+Minnesota,"Carlton County, MN",14167.01
+Minnesota,"Carver County, MN",14673.72
+Minnesota,"Cass County, MN",14339.32
+Minnesota,"Chippewa County, MN",14899.26
+Minnesota,"Chisago County, MN",14559
+Minnesota,"Clay County, MN",14612.36
+Minnesota,"Clearwater County, MN",14372.08
+Minnesota,"Cook County, MN",14436.22
+Minnesota,"Cottonwood County, MN",14705.13
+Minnesota,"Crow Wing County, MN",14546.52
+Minnesota,"Dakota County, MN",14505.2
+Minnesota,"Dodge County, MN",14426.43
+Minnesota,"Douglas County, MN",14850.83
+Minnesota,"Faribault County, MN",14697.9
+Minnesota,"Fillmore County, MN",14404.63
+Minnesota,"Freeborn County, MN",14600.64
+Minnesota,"Goodhue County, MN",14394.29
+Minnesota,"Grant County, MN",14821.9
+Minnesota,"Hennepin County, MN",14540.89
+Minnesota,"Houston County, MN",14353.76
+Minnesota,"Hubbard County, MN",14457.26
+Minnesota,"Isanti County, MN",14674.4
+Minnesota,"Itasca County, MN",14041.69
+Minnesota,"Jackson County, MN",14727.12
+Minnesota,"Kanabec County, MN",14531.87
+Minnesota,"Kandiyohi County, MN",14825.13
+Minnesota,"Kittson County, MN",14259.29
+Minnesota,"Koochiching County, MN",13806.02
+Minnesota,"Lac qui Parle County, MN",14893.57
+Minnesota,"Lake County, MN",14021.64
+Minnesota,"Lake of the Woods County, MN",13808.05
+Minnesota,"Le Sueur County, MN",14633.88
+Minnesota,"Lincoln County, MN",14791.7
+Minnesota,"Lyon County, MN",14756.55
+Minnesota,"McLeod County, MN",14754.16
+Minnesota,"Mahnomen County, MN",14470.84
+Minnesota,"Marshall County, MN",14388.54
+Minnesota,"Martin County, MN",14696.38
+Minnesota,"Meeker County, MN",14771.61
+Minnesota,"Mille Lacs County, MN",14590.78
+Minnesota,"Morrison County, MN",14605.26
+Minnesota,"Mower County, MN",14515.99
+Minnesota,"Murray County, MN",14744.84
+Minnesota,"Nicollet County, MN",14706.28
+Minnesota,"Nobles County, MN",14737.18
+Minnesota,"Norman County, MN",14639.44
+Minnesota,"Olmsted County, MN",14383.28
+Minnesota,"Otter Tail County, MN",14642.52
+Minnesota,"Pennington County, MN",14478.13
+Minnesota,"Pine County, MN",14322.03
+Minnesota,"Pipestone County, MN",14845.19
+Minnesota,"Polk County, MN",14575.86
+Minnesota,"Pope County, MN",14884.57
+Minnesota,"Ramsey County, MN",14517.98
+Minnesota,"Red Lake County, MN",14542.62
+Minnesota,"Redwood County, MN",14779.72
+Minnesota,"Renville County, MN",14822.32
+Minnesota,"Rice County, MN",14530.48
+Minnesota,"Rock County, MN",14888.33
+Minnesota,"Roseau County, MN",14030.81
+Minnesota,"St. Louis County, MN",13889.88
+Minnesota,"Scott County, MN",14581.87
+Minnesota,"Sherburne County, MN",14661.78
+Minnesota,"Sibley County, MN",14721.51
+Minnesota,"Stearns County, MN",14788.08
+Minnesota,"Steele County, MN",14522.34
+Minnesota,"Stevens County, MN",14875.29
+Minnesota,"Swift County, MN",14922.78
+Minnesota,"Todd County, MN",14652.48
+Minnesota,"Traverse County, MN",14823.48
+Minnesota,"Wabasha County, MN",14269.45
+Minnesota,"Wadena County, MN",14393.68
+Minnesota,"Waseca County, MN",14615.91
+Minnesota,"Washington County, MN",14476.76
+Minnesota,"Watonwan County, MN",14670.75
+Minnesota,"Wilkin County, MN",14691.82
+Minnesota,"Winona County, MN",14276.88
+Minnesota,"Wright County, MN",14726.26
+Minnesota,"Yellow Medicine County, MN",14809.71
+Minnesota,,14424.05
+Mississippi,"Adams County, MS",19075.8
+Mississippi,"Alcorn County, MS",17264.79
+Mississippi,"Amite County, MS",18920.65
+Mississippi,"Attala County, MS",18455.65
+Mississippi,"Benton County, MS",17161.37
+Mississippi,"Bolivar County, MS",18201.16
+Mississippi,"Calhoun County, MS",17898.77
+Mississippi,"Carroll County, MS",18371.15
+Mississippi,"Chickasaw County, MS",17866.02
+Mississippi,"Choctaw County, MS",18368.95
+Mississippi,"Claiborne County, MS",18958.1
+Mississippi,"Clarke County, MS",18592.61
+Mississippi,"Clay County, MS",18099.31
+Mississippi,"Coahoma County, MS",17800.47
+Mississippi,"Copiah County, MS",18742.34
+Mississippi,"Covington County, MS",18632.96
+Mississippi,"DeSoto County, MS",17250.2
+Mississippi,"Forrest County, MS",18873.25
+Mississippi,"Franklin County, MS",18899.2
+Mississippi,"George County, MS",18827.85
+Mississippi,"Greene County, MS",18893.37
+Mississippi,"Grenada County, MS",18181.82
+Mississippi,"Hancock County, MS",19617.01
+Mississippi,"Harrison County, MS",19421.27
+Mississippi,"Hinds County, MS",18718.3
+Mississippi,"Holmes County, MS",18491.12
+Mississippi,"Humphreys County, MS",18610.92
+Mississippi,"Issaquena County, MS",18794.32
+Mississippi,"Itawamba County, MS",17481.11
+Mississippi,"Jackson County, MS",19324.3
+Mississippi,"Jasper County, MS",18541.86
+Mississippi,"Jefferson County, MS",18967.85
+Mississippi,"Jefferson Davis County, MS",18706.53
+Mississippi,"Jones County, MS",18722.48
+Mississippi,"Kemper County, MS",18461.78
+Mississippi,"Lafayette County, MS",17536.06
+Mississippi,"Lamar County, MS",18816.24
+Mississippi,"Lauderdale County, MS",18578.74
+Mississippi,"Lawrence County, MS",18781.58
+Mississippi,"Leake County, MS",18458.75
+Mississippi,"Lee County, MS",17615.76
+Mississippi,"Leflore County, MS",18351.6
+Mississippi,"Lincoln County, MS",18828.5
+Mississippi,"Lowndes County, MS",18174.32
+Mississippi,"Madison County, MS",18575.23
+Mississippi,"Marion County, MS",18864.06
+Mississippi,"Marshall County, MS",17269.14
+Mississippi,"Monroe County, MS",17859.08
+Mississippi,"Montgomery County, MS",18370.86
+Mississippi,"Neshoba County, MS",18455.23
+Mississippi,"Newton County, MS",18480.27
+Mississippi,"Noxubee County, MS",18380.4
+Mississippi,"Oktibbeha County, MS",18263.03
+Mississippi,"Panola County, MS",17571.42
+Mississippi,"Pearl River County, MS",18891.42
+Mississippi,"Perry County, MS",18913.61
+Mississippi,"Pike County, MS",18905.19
+Mississippi,"Pontotoc County, MS",17605.93
+Mississippi,"Prentiss County, MS",17384.07
+Mississippi,"Quitman County, MS",17772.57
+Mississippi,"Rankin County, MS",18553.7
+Mississippi,"Scott County, MS",18469.26
+Mississippi,"Sharkey County, MS",18706.76
+Mississippi,"Simpson County, MS",18546.19
+Mississippi,"Smith County, MS",18516.87
+Mississippi,"Stone County, MS",18810.98
+Mississippi,"Sunflower County, MS",18357
+Mississippi,"Tallahatchie County, MS",18053.75
+Mississippi,"Tate County, MS",17341.24
+Mississippi,"Tippah County, MS",17227.21
+Mississippi,"Tishomingo County, MS",17311.7
+Mississippi,"Tunica County, MS",17468.94
+Mississippi,"Union County, MS",17442.65
+Mississippi,"Walthall County, MS",18972.65
+Mississippi,"Warren County, MS",18890.09
+Mississippi,"Washington County, MS",18584.75
+Mississippi,"Wayne County, MS",18829.36
+Mississippi,"Webster County, MS",18232.61
+Mississippi,"Wilkinson County, MS",19053.83
+Mississippi,"Winston County, MS",18350.77
+Mississippi,"Yalobusha County, MS",17847.86
+Mississippi,"Yazoo County, MS",18606.62
+Mississippi,,18384.95
+Missouri,"Adair County, MO",15542.54
+Missouri,"Andrew County, MO",15673.33
+Missouri,"Atchison County, MO",15684.47
+Missouri,"Audrain County, MO",15831.75
+Missouri,"Barry County, MO",16732.23
+Missouri,"Barton County, MO",16526.86
+Missouri,"Bates County, MO",16336.24
+Missouri,"Benton County, MO",16302.07
+Missouri,"Bollinger County, MO",16083.91
+Missouri,"Boone County, MO",15974.19
+Missouri,"Buchanan County, MO",15843.35
+Missouri,"Butler County, MO",16624.35
+Missouri,"Caldwell County, MO",15867.92
+Missouri,"Callaway County, MO",15900.43
+Missouri,"Camden County, MO",16222.52
+Missouri,"Cape Girardeau County, MO",16042.62
+Missouri,"Carroll County, MO",15932.16
+Missouri,"Carter County, MO",16296.74
+Missouri,"Cass County, MO",16109.16
+Missouri,"Cedar County, MO",16474.83
+Missouri,"Chariton County, MO",15866.42
+Missouri,"Christian County, MO",16529.83
+Missouri,"Clark County, MO",15415.65
+Missouri,"Clay County, MO",15957.76
+Missouri,"Clinton County, MO",15907.51
+Missouri,"Cole County, MO",16004.91
+Missouri,"Cooper County, MO",16034.95
+Missouri,"Crawford County, MO",15952.27
+Missouri,"Dade County, MO",16450.6
+Missouri,"Dallas County, MO",16249.17
+Missouri,"Daviess County, MO",15745.16
+Missouri,"DeKalb County, MO",15752.04
+Missouri,"Dent County, MO",15988.93
+Missouri,"Douglas County, MO",16547.47
+Missouri,"Dunklin County, MO",16808.64
+Missouri,"Franklin County, MO",15872.12
+Missouri,"Gasconade County, MO",15828.54
+Missouri,"Gentry County, MO",15635.89
+Missouri,"Greene County, MO",16405.3
+Missouri,"Grundy County, MO",15678.11
+Missouri,"Harrison County, MO",15610.22
+Missouri,"Henry County, MO",16311.44
+Missouri,"Hickory County, MO",16326.7
+Missouri,"Holt County, MO",15716.14
+Missouri,"Howard County, MO",15951.95
+Missouri,"Howell County, MO",16552.66
+Missouri,"Iron County, MO",15988.81
+Missouri,"Jackson County, MO",16005.19
+Missouri,"Jasper County, MO",16572.14
+Missouri,"Jefferson County, MO",15910.89
+Missouri,"Johnson County, MO",16132.89
+Missouri,"Knox County, MO",15511.7
+Missouri,"Laclede County, MO",16137.45
+Missouri,"Lafayette County, MO",15999.83
+Missouri,"Lawrence County, MO",16518.25
+Missouri,"Lewis County, MO",15520.48
+Missouri,"Lincoln County, MO",15814.05
+Missouri,"Linn County, MO",15704.21
+Missouri,"Livingston County, MO",15772.51
+Missouri,"McDonald County, MO",16865.67
+Missouri,"Macon County, MO",15687.23
+Missouri,"Madison County, MO",16027.12
+Missouri,"Maries County, MO",15889.58
+Missouri,"Marion County, MO",15618.04
+Missouri,"Mercer County, MO",15562.25
+Missouri,"Miller County, MO",16039.83
+Missouri,"Mississippi County, MO",16338.89
+Missouri,"Moniteau County, MO",16033.49
+Missouri,"Monroe County, MO",15804.77
+Missouri,"Montgomery County, MO",15852.67
+Missouri,"Morgan County, MO",16150.31
+Missouri,"New Madrid County, MO",16571.11
+Missouri,"Newton County, MO",16683.37
+Missouri,"Nodaway County, MO",15600.11
+Missouri,"Oregon County, MO",16554.31
+Missouri,"Osage County, MO",15904.21
+Missouri,"Ozark County, MO",16744.73
+Missouri,"Pemiscot County, MO",16752.4
+Missouri,"Perry County, MO",15872.49
+Missouri,"Pettis County, MO",16101.98
+Missouri,"Phelps County, MO",15968.13
+Missouri,"Pike County, MO",15699.25
+Missouri,"Platte County, MO",15950.82
+Missouri,"Polk County, MO",16323.72
+Missouri,"Pulaski County, MO",16071.69
+Missouri,"Putnam County, MO",15477.22
+Missouri,"Ralls County, MO",15694.12
+Missouri,"Randolph County, MO",15859.84
+Missouri,"Ray County, MO",15924.38
+Missouri,"Reynolds County, MO",16064.5
+Missouri,"Ripley County, MO",16570.61
+Missouri,"St. Charles County, MO",15825.32
+Missouri,"St. Clair County, MO",16406.47
+Missouri,"Ste. Genevieve County, MO",15867.65
+Missouri,"St. Francois County, MO",15901.14
+Missouri,"St. Louis County, MO",15820.96
+Missouri,"Saline County, MO",16016.89
+Missouri,"Schuyler County, MO",15403.91
+Missouri,"Scotland County, MO",15411.81
+Missouri,"Scott County, MO",16337.67
+Missouri,"Shannon County, MO",16214.45
+Missouri,"Shelby County, MO",15628.98
+Missouri,"Stoddard County, MO",16454.15
+Missouri,"Stone County, MO",16674.58
+Missouri,"Sullivan County, MO",15606.61
+Missouri,"Taney County, MO",16735.62
+Missouri,"Texas County, MO",16191.7
+Missouri,"Vernon County, MO",16484.42
+Missouri,"Warren County, MO",15844.29
+Missouri,"Washington County, MO",15905.1
+Missouri,"Wayne County, MO",16289.65
+Missouri,"Webster County, MO",16371.76
+Missouri,"Worth County, MO",15526.14
+Missouri,"Wright County, MO",16204.37
+Missouri,"St. Louis city, MO",15804.13
+Missouri,,16069.9
+Montana,"Beaverhead County, MT",15523.12
+Montana,"Big Horn County, MT",15135.96
+Montana,"Blaine County, MT",14714.91
+Montana,"Broadwater County, MT",14704.76
+Montana,"Carbon County, MT",15405.34
+Montana,"Carter County, MT",15056.5
+Montana,"Cascade County, MT",14450.73
+Montana,"Chouteau County, MT",14511.65
+Montana,"Custer County, MT",14572.55
+Montana,"Daniels County, MT",14678.78
+Montana,"Dawson County, MT",13476.31
+Montana,"Deer Lodge County, MT",15059.37
+Montana,"Fallon County, MT",14320.12
+Montana,"Fergus County, MT",14532.13
+Montana,"Flathead County, MT",13920.49
+Montana,"Gallatin County, MT",15138.41
+Montana,"Garfield County, MT",14653.63
+Montana,"Glacier County, MT",14284.22
+Montana,"Golden Valley County, MT",14764.84
+Montana,"Granite County, MT",14844.09
+Montana,"Hill County, MT",14614.07
+Montana,"Jefferson County, MT",14721.31
+Montana,"Judith Basin County, MT",14342.63
+Montana,"Lake County, MT",13895.9
+Montana,"Lewis and Clark County, MT",14726.67
+Montana,"Liberty County, MT",14427.14
+Montana,"Lincoln County, MT",13787.78
+Montana,"McCone County, MT",14404.84
+Montana,"Madison County, MT",15406.88
+Montana,"Meagher County, MT",14644.87
+Montana,"Mineral County, MT",14374.16
+Montana,"Missoula County, MT",14585.56
+Montana,"Musselshell County, MT",14728.01
+Montana,"Park County, MT",15379.55
+Montana,"Petroleum County, MT",14631.1
+Montana,"Phillips County, MT",14716.38
+Montana,"Pondera County, MT",14287.65
+Montana,"Powder River County, MT",15264.48
+Montana,"Powell County, MT",14696.54
+Montana,"Prairie County, MT",13698.14
+Montana,"Ravalli County, MT",14912.54
+Montana,"Richland County, MT",14432.87
+Montana,"Roosevelt County, MT",14749.07
+Montana,"Rosebud County, MT",14897.62
+Montana,"Sanders County, MT",13963.36
+Montana,"Sheridan County, MT",14653.22
+Montana,"Silver Bow County, MT",15002.1
+Montana,"Stillwater County, MT",15183.53
+Montana,"Sweet Grass County, MT",15060
+Montana,"Teton County, MT",14469.46
+Montana,"Toole County, MT",14313.27
+Montana,"Treasure County, MT",14871.05
+Montana,"Valley County, MT",14792.37
+Montana,"Wheatland County, MT",14622.46
+Montana,"Wibaux County, MT",14074.2
+Montana,"Yellowstone County, MT",14929.13
+Montana,"Yellowstone National Park, MT",16098.96
+Montana,,14668.01
+Nebraska,"Adams County, NE",15966.88
+Nebraska,"Antelope County, NE",15405.47
+Nebraska,"Arthur County, NE",16272.9
+Nebraska,"Banner County, NE",16373.71
+Nebraska,"Blaine County, NE",15503.38
+Nebraska,"Boone County, NE",15515.06
+Nebraska,"Box Butte County, NE",16192.51
+Nebraska,"Boyd County, NE",15269.17
+Nebraska,"Brown County, NE",15342.49
+Nebraska,"Buffalo County, NE",15913.73
+Nebraska,"Burt County, NE",15360.2
+Nebraska,"Butler County, NE",15694.64
+Nebraska,"Cass County, NE",15646.05
+Nebraska,"Cedar County, NE",15233.85
+Nebraska,"Chase County, NE",16700.34
+Nebraska,"Cherry County, NE",15587.73
+Nebraska,"Cheyenne County, NE",16538.72
+Nebraska,"Clay County, NE",15890.05
+Nebraska,"Colfax County, NE",15595.9
+Nebraska,"Cuming County, NE",15344.06
+Nebraska,"Custer County, NE",15805.88
+Nebraska,"Dakota County, NE",15267.97
+Nebraska,"Dawes County, NE",16031.69
+Nebraska,"Dawson County, NE",16076.72
+Nebraska,"Deuel County, NE",16455.02
+Nebraska,"Dixon County, NE",15207.98
+Nebraska,"Dodge County, NE",15500.06
+Nebraska,"Douglas County, NE",15527.63
+Nebraska,"Dundy County, NE",16879.77
+Nebraska,"Fillmore County, NE",15855.56
+Nebraska,"Franklin County, NE",16251.76
+Nebraska,"Frontier County, NE",16379.11
+Nebraska,"Furnas County, NE",16452.48
+Nebraska,"Gage County, NE",15812.12
+Nebraska,"Garden County, NE",16267.04
+Nebraska,"Garfield County, NE",15466.82
+Nebraska,"Gosper County, NE",16229.31
+Nebraska,"Grant County, NE",16056.64
+Nebraska,"Greeley County, NE",15572.53
+Nebraska,"Hall County, NE",15821.54
+Nebraska,"Hamilton County, NE",15785.37
+Nebraska,"Harlan County, NE",16361.27
+Nebraska,"Hayes County, NE",16513.78
+Nebraska,"Hitchcock County, NE",16705.94
+Nebraska,"Holt County, NE",15320.71
+Nebraska,"Hooker County, NE",15858.88
+Nebraska,"Howard County, NE",15690.98
+Nebraska,"Jefferson County, NE",15949.07
+Nebraska,"Johnson County, NE",15643.57
+Nebraska,"Kearney County, NE",16037.76
+Nebraska,"Keith County, NE",16398.8
+Nebraska,"Keya Paha County, NE",15183.39
+Nebraska,"Kimball County, NE",16523.36
+Nebraska,"Knox County, NE",15304.15
+Nebraska,"Lancaster County, NE",15715.95
+Nebraska,"Lincoln County, NE",16222.49
+Nebraska,"Logan County, NE",15850.6
+Nebraska,"Loup County, NE",15497.73
+Nebraska,"McPherson County, NE",16108.75
+Nebraska,"Madison County, NE",15458.31
+Nebraska,"Merrick County, NE",15690.32
+Nebraska,"Morrill County, NE",16335.35
+Nebraska,"Nance County, NE",15606.27
+Nebraska,"Nemaha County, NE",15708.96
+Nebraska,"Nuckolls County, NE",16089.02
+Nebraska,"Otoe County, NE",15659.27
+Nebraska,"Pawnee County, NE",15726.07
+Nebraska,"Perkins County, NE",16495.93
+Nebraska,"Phelps County, NE",16181.38
+Nebraska,"Pierce County, NE",15369.14
+Nebraska,"Platte County, NE",15593.43
+Nebraska,"Polk County, NE",15740.59
+Nebraska,"Red Willow County, NE",16607.75
+Nebraska,"Richardson County, NE",15747.95
+Nebraska,"Rock County, NE",15307.95
+Nebraska,"Saline County, NE",15789.95
+Nebraska,"Sarpy County, NE",15588.72
+Nebraska,"Saunders County, NE",15634.25
+Nebraska,"Scotts Bluff County, NE",16297.13
+Nebraska,"Seward County, NE",15719.03
+Nebraska,"Sheridan County, NE",15994.85
+Nebraska,"Sherman County, NE",15734.13
+Nebraska,"Sioux County, NE",16189.91
+Nebraska,"Stanton County, NE",15418.44
+Nebraska,"Thayer County, NE",16051.52
+Nebraska,"Thomas County, NE",15615.02
+Nebraska,"Thurston County, NE",15279.23
+Nebraska,"Valley County, NE",15603.18
+Nebraska,"Washington County, NE",15478.4
+Nebraska,"Wayne County, NE",15253.4
+Nebraska,"Webster County, NE",16156.37
+Nebraska,"Wheeler County, NE",15422.3
+Nebraska,"York County, NE",15778.46
+Nebraska,,15870.65
+Nevada,"Churchill County, NV",18002.38
+Nevada,"Clark County, NV",19740.41
+Nevada,"Douglas County, NV",18586.61
+Nevada,"Elko County, NV",16961.57
+Nevada,"Esmeralda County, NV",19267.81
+Nevada,"Eureka County, NV",17474.99
+Nevada,"Humboldt County, NV",17221.43
+Nevada,"Lander County, NV",17424.98
+Nevada,"Lincoln County, NV",19119.16
+Nevada,"Lyon County, NV",18571.96
+Nevada,"Mineral County, NV",18766.87
+Nevada,"Nye County, NV",18907.45
+Nevada,"Pershing County, NV",17755.47
+Nevada,"Storey County, NV",18701.3
+Nevada,"Washoe County, NV",18022.57
+Nevada,"White Pine County, NV",17714.65
+Nevada,"Carson City, NV",18577.11
+Nevada,,18134.88
+New Hampshire,"Belknap County, NH",14626.57
+New Hampshire,"Carroll County, NH",14484.56
+New Hampshire,"Cheshire County, NH",14483.1
+New Hampshire,"Coos County, NH",13708.3
+New Hampshire,"Grafton County, NH",14041.25
+New Hampshire,"Hillsborough County, NH",14640.84
+New Hampshire,"Merrimack County, NH",14562.59
+New Hampshire,"Rockingham County, NH",15087.95
+New Hampshire,"Strafford County, NH",14816.19
+New Hampshire,"Sullivan County, NH",14332.56
+New Hampshire,,14319.93
+New Jersey,"Atlantic County, NJ",16433.14
+New Jersey,"Bergen County, NJ",15568.34
+New Jersey,"Burlington County, NJ",15929.59
+New Jersey,"Camden County, NJ",15670.57
+New Jersey,"Cape May County, NJ",17430.89
+New Jersey,"Cumberland County, NJ",16202.46
+New Jersey,"Essex County, NJ",15378.22
+New Jersey,"Gloucester County, NJ",15674.04
+New Jersey,"Hudson County, NJ",15835.66
+New Jersey,"Hunterdon County, NJ",15263.43
+New Jersey,"Mercer County, NJ",15490.52
+New Jersey,"Middlesex County, NJ",15623.17
+New Jersey,"Monmouth County, NJ",16226.59
+New Jersey,"Morris County, NJ",15168.35
+New Jersey,"Ocean County, NJ",16620.34
+New Jersey,"Passaic County, NJ",15148.23
+New Jersey,"Salem County, NJ",15809.44
+New Jersey,"Somerset County, NJ",15379.22
+New Jersey,"Sussex County, NJ",14995.96
+New Jersey,"Union County, NJ",15621.66
+New Jersey,"Warren County, NJ",15037.64
+New Jersey,,15755.53
+New Mexico,"Bernalillo County, NM",19650.16
+New Mexico,"Catron County, NM",19572.59
+New Mexico,"Chaves County, NM",20446.74
+New Mexico,"Cibola County, NM",19405.76
+New Mexico,"Colfax County, NM",18781.76
+New Mexico,"Curry County, NM",19845.71
+New Mexico,"DeBaca County, NM",20135.76
+New Mexico,"Dona Ana County, NM",20985.47
+New Mexico,"Eddy County, NM",20608.89
+New Mexico,"Grant County, NM",20892.2
+New Mexico,"Guadalupe County, NM",19892.28
+New Mexico,"Harding County, NM",19621.42
+New Mexico,"Hidalgo County, NM",21374.91
+New Mexico,"Lea County, NM",20495.52
+New Mexico,"Lincoln County, NM",19967.19
+New Mexico,"Los Alamos County, NM",18842.43
+New Mexico,"Luna County, NM",21370.5
+New Mexico,"McKinley County, NM",18884.17
+New Mexico,"Mora County, NM",19203.75
+New Mexico,"Otero County, NM",20570.47
+New Mexico,"Quay County, NM",19751.73
+New Mexico,"Rio Arriba County, NM",18468.88
+New Mexico,"Roosevelt County, NM",20047.34
+New Mexico,"Sandoval County, NM",19056.4
+New Mexico,"San Juan County, NM",18752.27
+New Mexico,"San Miguel County, NM",19629.18
+New Mexico,"Santa Fe County, NM",19326.92
+New Mexico,"Sierra County, NM",20633.71
+New Mexico,"Socorro County, NM",20196.7
+New Mexico,"Taos County, NM",18198.62
+New Mexico,"Torrance County, NM",19772.96
+New Mexico,"Union County, NM",19270.97
+New Mexico,"Valencia County, NM",19807.23
+New Mexico,,19839.58
+New York,"Albany County, NY",14606.66
+New York,"Allegany County, NY",13718.4
+New York,"Bronx County, NY",16862.98
+New York,"Broome County, NY",13861.87
+New York,"Cattaraugus County, NY",13628.19
+New York,"Cayuga County, NY",13800.8
+New York,"Chautauqua County, NY",13664.84
+New York,"Chemung County, NY",13944.01
+New York,"Chenango County, NY",13845.45
+New York,"Clinton County, NY",14000.1
+New York,"Columbia County, NY",14544.96
+New York,"Cortland County, NY",13838.23
+New York,"Delaware County, NY",14002.94
+New York,"Dutchess County, NY",14822.68
+New York,"Erie County, NY",13891.39
+New York,"Essex County, NY",13936.25
+New York,"Franklin County, NY",13409.58
+New York,"Fulton County, NY",14452.88
+New York,"Genesee County, NY",14543.45
+New York,"Greene County, NY",14525.49
+New York,"Hamilton County, NY",13742.34
+New York,"Herkimer County, NY",13794.35
+New York,"Jefferson County, NY",13688.37
+New York,"Kings County, NY",17005.43
+New York,"Lewis County, NY",13544.41
+New York,"Livingston County, NY",13574.85
+New York,"Madison County, NY",13904.86
+New York,"Monroe County, NY",15130.85
+New York,"Montgomery County, NY",14542.15
+New York,"Nassau County, NY",17040.11
+New York,"New York County, NY",16730.6
+New York,"Niagara County, NY",15192.36
+New York,"Oneida County, NY",13927.15
+New York,"Onondaga County, NY",13856.79
+New York,"Ontario County, NY",13749.76
+New York,"Orange County, NY",14894.71
+New York,"Orleans County, NY",15361.15
+New York,"Oswego County, NY",13911.77
+New York,"Otsego County, NY",14080.78
+New York,"Putnam County, NY",14983.26
+New York,"Queens County, NY",17027.1
+New York,"Rensselaer County, NY",14294.76
+New York,"Richmond County, NY",16269.1
+New York,"Rockland County, NY",15312.46
+New York,"St. Lawrence County, NY",13533.84
+New York,"Saratoga County, NY",14464.65
+New York,"Schenectady County, NY",14628.21
+New York,"Schoharie County, NY",14496.84
+New York,"Schuyler County, NY",13776.98
+New York,"Seneca County, NY",13762.33
+New York,"Steuben County, NY",13815.05
+New York,"Suffolk County, NY",16894.84
+New York,"Sullivan County, NY",14578.38
+New York,"Tioga County, NY",13923.53
+New York,"Tompkins County, NY",13799.64
+New York,"Ulster County, NY",14747.24
+New York,"Warren County, NY",14226.48
+New York,"Washington County, NY",14088.97
+New York,"Wayne County, NY",14602.2
+New York,"Westchester County, NY",15522.12
+New York,"Wyoming County, NY",13784.14
+New York,"Yates County, NY",13786.59
+New York,,14128.05
+North Carolina,"Alamance County, NC",17271.76
+North Carolina,"Alexander County, NC",17296.46
+North Carolina,"Alleghany County, NC",16638.18
+North Carolina,"Anson County, NC",17903.68
+North Carolina,"Ashe County, NC",16289.54
+North Carolina,"Avery County, NC",16464.97
+North Carolina,"Beaufort County, NC",17752.18
+North Carolina,"Bertie County, NC",17300.78
+North Carolina,"Bladen County, NC",17877.15
+North Carolina,"Brunswick County, NC",19027.22
+North Carolina,"Buncombe County, NC",17088.13
+North Carolina,"Burke County, NC",17294.4
+North Carolina,"Cabarrus County, NC",17676.48
+North Carolina,"Caldwell County, NC",17081.28
+North Carolina,"Camden County, NC",17547.14
+North Carolina,"Carteret County, NC",19150.39
+North Carolina,"Caswell County, NC",17055.13
+North Carolina,"Catawba County, NC",17582.17
+North Carolina,"Chatham County, NC",17418.72
+North Carolina,"Cherokee County, NC",16907.49
+North Carolina,"Chowan County, NC",17685.42
+North Carolina,"Clay County, NC",17013.67
+North Carolina,"Cleveland County, NC",17742.55
+North Carolina,"Columbus County, NC",18164.77
+North Carolina,"Craven County, NC",17876.37
+North Carolina,"Cumberland County, NC",17576.41
+North Carolina,"Currituck County, NC",18572.6
+North Carolina,"Dare County, NC",19093.87
+North Carolina,"Davidson County, NC",17556.69
+North Carolina,"Davie County, NC",17484.31
+North Carolina,"Duplin County, NC",17627.39
+North Carolina,"Durham County, NC",17209.27
+North Carolina,"Edgecombe County, NC",17162.93
+North Carolina,"Forsyth County, NC",17283.16
+North Carolina,"Franklin County, NC",17066.5
+North Carolina,"Gaston County, NC",17778.12
+North Carolina,"Gates County, NC",17133.66
+North Carolina,"Graham County, NC",16660.76
+North Carolina,"Granville County, NC",17083.72
+North Carolina,"Greene County, NC",17280.24
+North Carolina,"Guilford County, NC",17312.63
+North Carolina,"Halifax County, NC",17089.27
+North Carolina,"Harnett County, NC",17413.42
+North Carolina,"Haywood County, NC",16857.81
+North Carolina,"Henderson County, NC",17510.82
+North Carolina,"Hertford County, NC",17154.77
+North Carolina,"Hoke County, NC",17684.65
+North Carolina,"Hyde County, NC",18234.39
+North Carolina,"Iredell County, NC",17515.13
+North Carolina,"Jackson County, NC",17011.9
+North Carolina,"Johnston County, NC",17310.69
+North Carolina,"Jones County, NC",17910.88
+North Carolina,"Lee County, NC",17417.35
+North Carolina,"Lenoir County, NC",17443.5
+North Carolina,"Lincoln County, NC",17648.61
+North Carolina,"McDowell County, NC",17281.61
+North Carolina,"Macon County, NC",17203.55
+North Carolina,"Madison County, NC",16474.6
+North Carolina,"Martin County, NC",17290.73
+North Carolina,"Mecklenburg County, NC",17771.43
+North Carolina,"Mitchell County, NC",16466.57
+North Carolina,"Montgomery County, NC",17655.27
+North Carolina,"Moore County, NC",17510.67
+North Carolina,"Nash County, NC",17090.54
+North Carolina,"New Hanover County, NC",18968.2
+North Carolina,"Northampton County, NC",17072.59
+North Carolina,"Onslow County, NC",18452.67
+North Carolina,"Orange County, NC",17224.39
+North Carolina,"Pamlico County, NC",18161.34
+North Carolina,"Pasquotank County, NC",17572.35
+North Carolina,"Pender County, NC",18129.68
+North Carolina,"Perquimans County, NC",17478.54
+North Carolina,"Person County, NC",17067.66
+North Carolina,"Pitt County, NC",17356.83
+North Carolina,"Polk County, NC",17729.79
+North Carolina,"Randolph County, NC",17504.17
+North Carolina,"Richmond County, NC",17791.02
+North Carolina,"Robeson County, NC",17916.81
+North Carolina,"Rockingham County, NC",17125.05
+North Carolina,"Rowan County, NC",17648.76
+North Carolina,"Rutherford County, NC",17615.12
+North Carolina,"Sampson County, NC",17565.72
+North Carolina,"Scotland County, NC",17817.94
+North Carolina,"Stanly County, NC",17794.42
+North Carolina,"Stokes County, NC",17156.55
+North Carolina,"Surry County, NC",17073.79
+North Carolina,"Swain County, NC",16771.94
+North Carolina,"Transylvania County, NC",17397.05
+North Carolina,"Tyrrell County, NC",17776.42
+North Carolina,"Union County, NC",17935.66
+North Carolina,"Vance County, NC",17043.63
+North Carolina,"Wake County, NC",17241.84
+North Carolina,"Warren County, NC",17041.35
+North Carolina,"Washington County, NC",17465.28
+North Carolina,"Watauga County, NC",16379.04
+North Carolina,"Wayne County, NC",17309.03
+North Carolina,"Wilkes County, NC",17058.14
+North Carolina,"Wilson County, NC",17203.32
+North Carolina,"Yadkin County, NC",17346.5
+North Carolina,"Yancey County, NC",16588.92
+North Carolina,,17483.33
+North Dakota,"Adams County, ND",14820.02
+North Dakota,"Barnes County, ND",14792.04
+North Dakota,"Benson County, ND",14692.11
+North Dakota,"Billings County, ND",14510.07
+North Dakota,"Bottineau County, ND",14713.32
+North Dakota,"Bowman County, ND",14689.41
+North Dakota,"Burke County, ND",14751.32
+North Dakota,"Burleigh County, ND",14856.33
+North Dakota,"Cass County, ND",14758.41
+North Dakota,"Cavalier County, ND",14398.08
+North Dakota,"Dickey County, ND",14885.41
+North Dakota,"Divide County, ND",14684.95
+North Dakota,"Dunn County, ND",14558.83
+North Dakota,"Eddy County, ND",14745.06
+North Dakota,"Emmons County, ND",14880.61
+North Dakota,"Foster County, ND",14760.03
+North Dakota,"Golden Valley County, ND",14371.62
+North Dakota,"Grand Forks County, ND",14651.7
+North Dakota,"Grant County, ND",14820.42
+North Dakota,"Griggs County, ND",14777.04
+North Dakota,"Hettinger County, ND",14741.58
+North Dakota,"Kidder County, ND",14903.45
+North Dakota,"LaMoure County, ND",14782.51
+North Dakota,"Logan County, ND",14807.83
+North Dakota,"McHenry County, ND",14777.49
+North Dakota,"McIntosh County, ND",14905.55
+North Dakota,"McKenzie County, ND",14573.94
+North Dakota,"McLean County, ND",14760.58
+North Dakota,"Mercer County, ND",14654.58
+North Dakota,"Morton County, ND",14789.24
+North Dakota,"Mountrail County, ND",14744.12
+North Dakota,"Nelson County, ND",14683.62
+North Dakota,"Oliver County, ND",14804.81
+North Dakota,"Pembina County, ND",14404.41
+North Dakota,"Pierce County, ND",14721.65
+North Dakota,"Ramsey County, ND",14648.11
+North Dakota,"Ransom County, ND",14766.82
+North Dakota,"Renville County, ND",14730.48
+North Dakota,"Richland County, ND",14720.6
+North Dakota,"Rolette County, ND",14646.55
+North Dakota,"Sargent County, ND",14774.41
+North Dakota,"Sheridan County, ND",14696.48
+North Dakota,"Sioux County, ND",14932.63
+North Dakota,"Slope County, ND",14592.53
+North Dakota,"Stark County, ND",14636.36
+North Dakota,"Steele County, ND",14739.67
+North Dakota,"Stutsman County, ND",14809.55
+North Dakota,"Towner County, ND",14465.38
+North Dakota,"Traill County, ND",14713.09
+North Dakota,"Walsh County, ND",14521.07
+North Dakota,"Ward County, ND",14737.57
+North Dakota,"Wells County, ND",14656.42
+North Dakota,"Williams County, ND",14757.28
+North Dakota,,14708.97
+Ohio,"Adams County, OH",15063.38
+Ohio,"Allen County, OH",14647.79
+Ohio,"Ashland County, OH",14425.1
+Ohio,"Ashtabula County, OH",14068.53
+Ohio,"Athens County, OH",14760.76
+Ohio,"Auglaize County, OH",14711.05
+Ohio,"Belmont County, OH",14253.86
+Ohio,"Brown County, OH",15076.42
+Ohio,"Butler County, OH",14926.87
+Ohio,"Carroll County, OH",14150.83
+Ohio,"Champaign County, OH",14746.48
+Ohio,"Clark County, OH",14860.14
+Ohio,"Clermont County, OH",15128.1
+Ohio,"Clinton County, OH",14994.71
+Ohio,"Columbiana County, OH",14057.21
+Ohio,"Coshocton County, OH",14302.29
+Ohio,"Crawford County, OH",14398.34
+Ohio,"Cuyahoga County, OH",14035.93
+Ohio,"Darke County, OH",14796.33
+Ohio,"Defiance County, OH",14622.67
+Ohio,"Delaware County, OH",14451.44
+Ohio,"Erie County, OH",15776.82
+Ohio,"Fairfield County, OH",14715.71
+Ohio,"Fayette County, OH",14962.99
+Ohio,"Franklin County, OH",14641.17
+Ohio,"Fulton County, OH",14625.07
+Ohio,"Gallia County, OH",15032.21
+Ohio,"Geauga County, OH",14202.4
+Ohio,"Greene County, OH",14932.29
+Ohio,"Guernsey County, OH",14295.83
+Ohio,"Hamilton County, OH",15098.92
+Ohio,"Hancock County, OH",14545.39
+Ohio,"Hardin County, OH",14547.44
+Ohio,"Harrison County, OH",14233.56
+Ohio,"Henry County, OH",14576.09
+Ohio,"Highland County, OH",15012.48
+Ohio,"Hocking County, OH",14852.87
+Ohio,"Holmes County, OH",14289.67
+Ohio,"Huron County, OH",16016.48
+Ohio,"Jackson County, OH",15040.35
+Ohio,"Jefferson County, OH",14150.58
+Ohio,"Knox County, OH",14381.5
+Ohio,"Lake County, OH",14067.08
+Ohio,"Lawrence County, OH",15097.04
+Ohio,"Licking County, OH",14517.84
+Ohio,"Logan County, OH",14593.04
+Ohio,"Lorain County, OH",15617.86
+Ohio,"Lucas County, OH",14659.92
+Ohio,"Madison County, OH",14824.14
+Ohio,"Mahoning County, OH",14050.14
+Ohio,"Marion County, OH",14344.82
+Ohio,"Medina County, OH",14599.39
+Ohio,"Meigs County, OH",14820.51
+Ohio,"Mercer County, OH",14812.91
+Ohio,"Miami County, OH",14776.69
+Ohio,"Monroe County, OH",14268.36
+Ohio,"Montgomery County, OH",14778.44
+Ohio,"Morgan County, OH",14623.38
+Ohio,"Morrow County, OH",14406.25
+Ohio,"Muskingum County, OH",14487.89
+Ohio,"Noble County, OH",14372.24
+Ohio,"Ottawa County, OH",14691.06
+Ohio,"Paulding County, OH",14670.62
+Ohio,"Perry County, OH",14703.31
+Ohio,"Pickaway County, OH",14793.92
+Ohio,"Pike County, OH",15029.37
+Ohio,"Portage County, OH",14193.42
+Ohio,"Preble County, OH",14823.12
+Ohio,"Putnam County, OH",14611.49
+Ohio,"Richland County, OH",14403.49
+Ohio,"Ross County, OH",14958.66
+Ohio,"Sandusky County, OH",14788.94
+Ohio,"Scioto County, OH",15088.79
+Ohio,"Seneca County, OH",14931.01
+Ohio,"Shelby County, OH",14749.46
+Ohio,"Stark County, OH",14171.13
+Ohio,"Summit County, OH",14162.92
+Ohio,"Trumbull County, OH",14028.6
+Ohio,"Tuscarawas County, OH",14189.08
+Ohio,"Union County, OH",14494.05
+Ohio,"Van Wert County, OH",14725.29
+Ohio,"Vinton County, OH",14929.32
+Ohio,"Warren County, OH",14934.56
+Ohio,"Washington County, OH",14556.26
+Ohio,"Wayne County, OH",14314.9
+Ohio,"Williams County, OH",14659.59
+Ohio,"Wood County, OH",14596.06
+Ohio,"Wyandot County, OH",14439.81
+Ohio,,14634.43
+Oklahoma,"Adair County, OK",16873.64
+Oklahoma,"Alfalfa County, OK",17830.23
+Oklahoma,"Atoka County, OK",17912.72
+Oklahoma,"Beaver County, OK",18476.25
+Oklahoma,"Beckham County, OK",18773.88
+Oklahoma,"Blaine County, OK",18222.42
+Oklahoma,"Bryan County, OK",18343.01
+Oklahoma,"Caddo County, OK",18485.73
+Oklahoma,"Canadian County, OK",18115.09
+Oklahoma,"Carter County, OK",18408.48
+Oklahoma,"Cherokee County, OK",17035.7
+Oklahoma,"Choctaw County, OK",18056.83
+Oklahoma,"Cimarron County, OK",18953.26
+Oklahoma,"Cleveland County, OK",18056.86
+Oklahoma,"Coal County, OK",17970.58
+Oklahoma,"Comanche County, OK",18745.68
+Oklahoma,"Cotton County, OK",18909.73
+Oklahoma,"Craig County, OK",17087.08
+Oklahoma,"Creek County, OK",17484.17
+Oklahoma,"Custer County, OK",18423.34
+Oklahoma,"Delaware County, OK",16970.07
+Oklahoma,"Dewey County, OK",18234.27
+Oklahoma,"Ellis County, OK",18448.9
+Oklahoma,"Garfield County, OK",17812.48
+Oklahoma,"Garvin County, OK",18215.25
+Oklahoma,"Grady County, OK",18337.49
+Oklahoma,"Grant County, OK",17629.18
+Oklahoma,"Greer County, OK",18924.61
+Oklahoma,"Harmon County, OK",19038.02
+Oklahoma,"Harper County, OK",18124.38
+Oklahoma,"Haskell County, OK",17398.21
+Oklahoma,"Hughes County, OK",17753.21
+Oklahoma,"Jackson County, OK",19050.21
+Oklahoma,"Jefferson County, OK",18793.43
+Oklahoma,"Johnston County, OK",18256.93
+Oklahoma,"Kay County, OK",17471.5
+Oklahoma,"Kingfisher County, OK",18021.09
+Oklahoma,"Kiowa County, OK",18775.98
+Oklahoma,"Latimer County, OK",17454.45
+Oklahoma,"Le Flore County, OK",17279.13
+Oklahoma,"Lincoln County, OK",17719.46
+Oklahoma,"Logan County, OK",17870.64
+Oklahoma,"Love County, OK",18624.32
+Oklahoma,"McClain County, OK",18116.86
+Oklahoma,"McCurtain County, OK",17703.06
+Oklahoma,"McIntosh County, OK",17568.42
+Oklahoma,"Major County, OK",18031.79
+Oklahoma,"Marshall County, OK",18537.25
+Oklahoma,"Mayes County, OK",17162.94
+Oklahoma,"Murray County, OK",18155.81
+Oklahoma,"Muskogee County, OK",17368.58
+Oklahoma,"Noble County, OK",17629.75
+Oklahoma,"Nowata County, OK",17172.52
+Oklahoma,"Okfuskee County, OK",17622.21
+Oklahoma,"Oklahoma County, OK",17932.33
+Oklahoma,"Okmulgee County, OK",17500.03
+Oklahoma,"Osage County, OK",17375.34
+Oklahoma,"Ottawa County, OK",16901.66
+Oklahoma,"Pawnee County, OK",17493.01
+Oklahoma,"Payne County, OK",17647.79
+Oklahoma,"Pittsburg County, OK",17635.37
+Oklahoma,"Pontotoc County, OK",17919.92
+Oklahoma,"Pottawatomie County, OK",17904.49
+Oklahoma,"Pushmataha County, OK",17571.08
+Oklahoma,"Roger Mills County, OK",18634.98
+Oklahoma,"Rogers County, OK",17302.49
+Oklahoma,"Seminole County, OK",17823.42
+Oklahoma,"Sequoyah County, OK",17153.34
+Oklahoma,"Stephens County, OK",18585.56
+Oklahoma,"Texas County, OK",18798.51
+Oklahoma,"Tillman County, OK",19014.38
+Oklahoma,"Tulsa County, OK",17407.91
+Oklahoma,"Wagoner County, OK",17318.38
+Oklahoma,"Washington County, OK",17275.09
+Oklahoma,"Washita County, OK",18613.3
+Oklahoma,"Woods County, OK",17971.82
+Oklahoma,"Woodward County, OK",18192.9
+Oklahoma,,18009.52
+Oregon,"Baker County, OR",15975.83
+Oregon,"Benton County, OR",14720.28
+Oregon,"Clackamas County, OR",14706.09
+Oregon,"Clatsop County, OR",13659.93
+Oregon,"Columbia County, OR",13420.6
+Oregon,"Coos County, OR",16047.33
+Oregon,"Crook County, OR",16302.48
+Oregon,"Curry County, OR",16680.68
+Oregon,"Deschutes County, OR",16479.51
+Oregon,"Douglas County, OR",16062.52
+Oregon,"Gilliam County, OR",15688.06
+Oregon,"Grant County, OR",15874.09
+Oregon,"Harney County, OR",16732.47
+Oregon,"Hood River County, OR",15469.05
+Oregon,"Jackson County, OR",17293.65
+Oregon,"Jefferson County, OR",15902.9
+Oregon,"Josephine County, OR",17325.07
+Oregon,"Klamath County, OR",17509
+Oregon,"Lake County, OR",17109.88
+Oregon,"Lane County, OR",15496.21
+Oregon,"Lincoln County, OR",14802.93
+Oregon,"Linn County, OR",14904.62
+Oregon,"Malheur County, OR",16536.14
+Oregon,"Marion County, OR",14499.95
+Oregon,"Morrow County, OR",15458.73
+Oregon,"Multnomah County, OR",13828.49
+Oregon,"Polk County, OR",14416.16
+Oregon,"Sherman County, OR",15846.52
+Oregon,"Tillamook County, OR",14042.31
+Oregon,"Umatilla County, OR",15106.93
+Oregon,"Union County, OR",15403.12
+Oregon,"Wallowa County, OR",15195.3
+Oregon,"Wasco County, OR",15680.32
+Oregon,"Washington County, OR",13872.42
+Oregon,"Wheeler County, OR",15705.59
+Oregon,"Yamhill County, OR",14141.83
+Oregon,,16064.65
+Pennsylvania,"Adams County, PA",14757.06
+Pennsylvania,"Allegheny County, PA",13976.4
+Pennsylvania,"Armstrong County, PA",13812.45
+Pennsylvania,"Beaver County, PA",13979.65
+Pennsylvania,"Bedford County, PA",14516.52
+Pennsylvania,"Berks County, PA",15052.98
+Pennsylvania,"Blair County, PA",14217.76
+Pennsylvania,"Bradford County, PA",14007.27
+Pennsylvania,"Bucks County, PA",15273.44
+Pennsylvania,"Butler County, PA",13918.96
+Pennsylvania,"Cambria County, PA",13970.23
+Pennsylvania,"Cameron County, PA",13668.56
+Pennsylvania,"Carbon County, PA",14569.63
+Pennsylvania,"Centre County, PA",14046.22
+Pennsylvania,"Chester County, PA",15409.98
+Pennsylvania,"Clarion County, PA",13652.38
+Pennsylvania,"Clearfield County, PA",13879.31
+Pennsylvania,"Clinton County, PA",13975.3
+Pennsylvania,"Columbia County, PA",14304.35
+Pennsylvania,"Crawford County, PA",13720.46
+Pennsylvania,"Cumberland County, PA",14669.98
+Pennsylvania,"Dauphin County, PA",14821.7
+Pennsylvania,"Delaware County, PA",15451.33
+Pennsylvania,"Elk County, PA",13599.17
+Pennsylvania,"Erie County, PA",14050.71
+Pennsylvania,"Fayette County, PA",13931.82
+Pennsylvania,"Forest County, PA",13559.39
+Pennsylvania,"Franklin County, PA",14558.87
+Pennsylvania,"Fulton County, PA",14550.29
+Pennsylvania,"Greene County, PA",14180.82
+Pennsylvania,"Huntingdon County, PA",14226.27
+Pennsylvania,"Indiana County, PA",13773.75
+Pennsylvania,"Jefferson County, PA",13725.39
+Pennsylvania,"Juniata County, PA",14434.59
+Pennsylvania,"Lackawanna County, PA",14274.95
+Pennsylvania,"Lancaster County, PA",15303.65
+Pennsylvania,"Lawrence County, PA",13955.31
+Pennsylvania,"Lebanon County, PA",15049.63
+Pennsylvania,"Lehigh County, PA",14892.78
+Pennsylvania,"Luzerne County, PA",14244.34
+Pennsylvania,"Lycoming County, PA",14005.47
+Pennsylvania,"Mc Kean County, PA",13541.44
+Pennsylvania,"Mercer County, PA",13844.85
+Pennsylvania,"Mifflin County, PA",14283.94
+Pennsylvania,"Monroe County, PA",14614.31
+Pennsylvania,"Montgomery County, PA",15255.14
+Pennsylvania,"Montour County, PA",14332.56
+Pennsylvania,"Northampton County, PA",14866.51
+Pennsylvania,"Northumberland County, PA",14398.6
+Pennsylvania,"Perry County, PA",14606.18
+Pennsylvania,"Philadelphia County, PA",15360.73
+Pennsylvania,"Pike County, PA",14578.59
+Pennsylvania,"Potter County, PA",13709.41
+Pennsylvania,"Schuylkill County, PA",14676.33
+Pennsylvania,"Snyder County, PA",14419.57
+Pennsylvania,"Somerset County, PA",14332.82
+Pennsylvania,"Sullivan County, PA",13892.82
+Pennsylvania,"Susquehanna County, PA",14087.89
+Pennsylvania,"Tioga County, PA",13933.78
+Pennsylvania,"Union County, PA",14323.91
+Pennsylvania,"Venango County, PA",13629.24
+Pennsylvania,"Warren County, PA",13520.42
+Pennsylvania,"Washington County, PA",14127.16
+Pennsylvania,"Wayne County, PA",14334.26
+Pennsylvania,"Westmoreland County, PA",13864.45
+Pennsylvania,"Wyoming County, PA",14091.53
+Pennsylvania,"York County, PA",15101.27
+Pennsylvania,,14215.22
+Rhode Island,"Bristol County, RI",15416.1
+Rhode Island,"Kent County, RI",15518.96
+Rhode Island,"Newport County, RI",16075.28
+Rhode Island,"Providence County, RI",15146.39
+Rhode Island,"Washington County, RI",15999.88
+Rhode Island,,15557.88
+South Carolina,"Abbeville County, SC",18372.54
+South Carolina,"Aiken County, SC",18634.2
+South Carolina,"Allendale County, SC",18866.96
+South Carolina,"Anderson County, SC",18223.21
+South Carolina,"Bamberg County, SC",18875.01
+South Carolina,"Barnwell County, SC",18755.64
+South Carolina,"Beaufort County, SC",20021.23
+South Carolina,"Berkeley County, SC",19244.31
+South Carolina,"Calhoun County, SC",18776.59
+South Carolina,"Charleston County, SC",20135.69
+South Carolina,"Cherokee County, SC",17966.7
+South Carolina,"Chester County, SC",18204.13
+South Carolina,"Chesterfield County, SC",18133.13
+South Carolina,"Clarendon County, SC",18683.04
+South Carolina,"Colleton County, SC",19248.94
+South Carolina,"Darlington County, SC",18240.2
+South Carolina,"Dillon County, SC",18071.95
+South Carolina,"Dorchester County, SC",18932.88
+South Carolina,"Edgefield County, SC",18559.81
+South Carolina,"Fairfield County, SC",18467.14
+South Carolina,"Florence County, SC",18396.99
+South Carolina,"Georgetown County, SC",19401.49
+South Carolina,"Greenville County, SC",18010.12
+South Carolina,"Greenwood County, SC",18441.79
+South Carolina,"Hampton County, SC",19006.46
+South Carolina,"Horry County, SC",19100.57
+South Carolina,"Jasper County, SC",19501.84
+South Carolina,"Kershaw County, SC",18397.82
+South Carolina,"Lancaster County, SC",18203.95
+South Carolina,"Laurens County, SC",18254.58
+South Carolina,"Lee County, SC",18436.67
+South Carolina,"Lexington County, SC",18526.39
+South Carolina,"McCormick County, SC",18651.97
+South Carolina,"Marion County, SC",18292.75
+South Carolina,"Marlboro County, SC",18054.15
+South Carolina,"Newberry County, SC",18497.07
+South Carolina,"Oconee County, SC",18160.7
+South Carolina,"Orangeburg County, SC",18790.58
+South Carolina,"Pickens County, SC",17956.86
+South Carolina,"Richland County, SC",18592.97
+South Carolina,"Saluda County, SC",18494.51
+South Carolina,"Spartanburg County, SC",17997.9
+South Carolina,"Sumter County, SC",18574.02
+South Carolina,"Union County, SC",18151.76
+South Carolina,"Williamsburg County, SC",18651.68
+South Carolina,"York County, SC",17969.62
+South Carolina,,18630.89
+South Dakota,"Aurora County, SD",15278
+South Dakota,"Beadle County, SD",15361.14
+South Dakota,"Bennett County, SD",15505.65
+South Dakota,"Bon Homme County, SD",15330.51
+South Dakota,"Brookings County, SD",14959.94
+South Dakota,"Brown County, SD",15047.39
+South Dakota,"Brule County, SD",15254.39
+South Dakota,"Buffalo County, SD",15264.38
+South Dakota,"Butte County, SD",15035.17
+South Dakota,"Campbell County, SD",15003.26
+South Dakota,"Charles Mix County, SD",15362.23
+South Dakota,"Clark County, SD",15271.26
+South Dakota,"Clay County, SD",15173.82
+South Dakota,"Codington County, SD",15048.54
+South Dakota,"Corson County, SD",14955.91
+South Dakota,"Custer County, SD",15414.54
+South Dakota,"Davison County, SD",15302.03
+South Dakota,"Day County, SD",15071.81
+South Dakota,"Deuel County, SD",14920.7
+South Dakota,"Dewey County, SD",15117.68
+South Dakota,"Douglas County, SD",15330.19
+South Dakota,"Edmunds County, SD",15121.24
+South Dakota,"Fall River County, SD",15906.32
+South Dakota,"Faulk County, SD",15210.62
+South Dakota,"Grant County, SD",14887.05
+South Dakota,"Gregory County, SD",15217.67
+South Dakota,"Haakon County, SD",15191.84
+South Dakota,"Hamlin County, SD",15135.67
+South Dakota,"Hand County, SD",15294.29
+South Dakota,"Hanson County, SD",15266.68
+South Dakota,"Harding County, SD",14873.83
+South Dakota,"Hughes County, SD",15229.29
+South Dakota,"Hutchinson County, SD",15255.93
+South Dakota,"Hyde County, SD",15235.97
+South Dakota,"Jackson County, SD",15220.63
+South Dakota,"Jerauld County, SD",15282.54
+South Dakota,"Jones County, SD",15209.98
+South Dakota,"Kingsbury County, SD",15244.4
+South Dakota,"Lake County, SD",15066.36
+South Dakota,"Lawrence County, SD",15267.04
+South Dakota,"Lincoln County, SD",15114.45
+South Dakota,"Lyman County, SD",15172.33
+South Dakota,"McCook County, SD",15166.33
+South Dakota,"McPherson County, SD",15029.49
+South Dakota,"Marshall County, SD",14904.23
+South Dakota,"Meade County, SD",15102.39
+South Dakota,"Mellette County, SD",15176.3
+South Dakota,"Miner County, SD",15230.79
+South Dakota,"Minnehaha County, SD",15045.6
+South Dakota,"Moody County, SD",14935.05
+South Dakota,"Pennington County, SD",15214.75
+South Dakota,"Perkins County, SD",14917.98
+South Dakota,"Potter County, SD",15161.95
+South Dakota,"Roberts County, SD",14806.36
+South Dakota,"Sanborn County, SD",15327.44
+South Dakota,"Shannon County, SD",15558.99
+South Dakota,"Spink County, SD",15283.48
+South Dakota,"Stanley County, SD",15174.09
+South Dakota,"Sully County, SD",15196.37
+South Dakota,"Todd County, SD",15323.24
+South Dakota,"Tripp County, SD",15114.18
+South Dakota,"Turner County, SD",15128.16
+South Dakota,"Union County, SD",15193.14
+South Dakota,"Walworth County, SD",15111.15
+South Dakota,"Yankton County, SD",15244.05
+South Dakota,"Ziebach County, SD",15047.39
+South Dakota,,15166.94
+Tennessee,"Anderson County, TN",16281.22
+Tennessee,"Bedford County, TN",16450.03
+Tennessee,"Benton County, TN",16384.62
+Tennessee,"Bledsoe County, TN",16543.69
+Tennessee,"Blount County, TN",16271.08
+Tennessee,"Bradley County, TN",16919.25
+Tennessee,"Campbell County, TN",15938.3
+Tennessee,"Cannon County, TN",16193.44
+Tennessee,"Carroll County, TN",16479.73
+Tennessee,"Carter County, TN",15810.24
+Tennessee,"Cheatham County, TN",16189.57
+Tennessee,"Chester County, TN",16793.3
+Tennessee,"Claiborne County, TN",16051.24
+Tennessee,"Clay County, TN",15860.61
+Tennessee,"Cocke County, TN",16380.17
+Tennessee,"Coffee County, TN",16349.19
+Tennessee,"Crockett County, TN",16730.15
+Tennessee,"Cumberland County, TN",16047.9
+Tennessee,"Davidson County, TN",16202.39
+Tennessee,"Decatur County, TN",16663.88
+Tennessee,"DeKalb County, TN",16096.54
+Tennessee,"Dickson County, TN",16237.05
+Tennessee,"Dyer County, TN",16663.05
+Tennessee,"Fayette County, TN",17071.79
+Tennessee,"Fentress County, TN",15674.55
+Tennessee,"Franklin County, TN",16629.65
+Tennessee,"Gibson County, TN",16570.27
+Tennessee,"Giles County, TN",16718.05
+Tennessee,"Grainger County, TN",16471.18
+Tennessee,"Greene County, TN",16208.11
+Tennessee,"Grundy County, TN",16411.89
+Tennessee,"Hamblen County, TN",16618.01
+Tennessee,"Hamilton County, TN",16970.92
+Tennessee,"Hancock County, TN",16155.85
+Tennessee,"Hardeman County, TN",16984.98
+Tennessee,"Hardin County, TN",16997.28
+Tennessee,"Hawkins County, TN",16373.22
+Tennessee,"Haywood County, TN",16895.98
+Tennessee,"Henderson County, TN",16665.87
+Tennessee,"Henry County, TN",16296.8
+Tennessee,"Hickman County, TN",16377.43
+Tennessee,"Houston County, TN",16178.83
+Tennessee,"Humphreys County, TN",16324.08
+Tennessee,"Jackson County, TN",15942.98
+Tennessee,"Jefferson County, TN",16548.15
+Tennessee,"Johnson County, TN",15789.11
+Tennessee,"Knox County, TN",16552.06
+Tennessee,"Lake County, TN",16599.49
+Tennessee,"Lauderdale County, TN",16842.76
+Tennessee,"Lawrence County, TN",16773.74
+Tennessee,"Lewis County, TN",16515.04
+Tennessee,"Lincoln County, TN",16721.2
+Tennessee,"Loudon County, TN",16636.68
+Tennessee,"McMinn County, TN",16752.74
+Tennessee,"McNairy County, TN",17075.23
+Tennessee,"Macon County, TN",16051.28
+Tennessee,"Madison County, TN",16799.2
+Tennessee,"Marion County, TN",16801.01
+Tennessee,"Marshall County, TN",16529.55
+Tennessee,"Maury County, TN",16449.74
+Tennessee,"Meigs County, TN",16763.86
+Tennessee,"Monroe County, TN",16496.96
+Tennessee,"Montgomery County, TN",16049.16
+Tennessee,"Moore County, TN",16608.62
+Tennessee,"Morgan County, TN",15927
+Tennessee,"Obion County, TN",16414.65
+Tennessee,"Overton County, TN",15743.92
+Tennessee,"Perry County, TN",16561.46
+Tennessee,"Pickett County, TN",15551.6
+Tennessee,"Polk County, TN",16937.77
+Tennessee,"Putnam County, TN",15838.61
+Tennessee,"Rhea County, TN",16526.12
+Tennessee,"Roane County, TN",16501.25
+Tennessee,"Robertson County, TN",16064.52
+Tennessee,"Rutherford County, TN",16243.65
+Tennessee,"Scott County, TN",15543.34
+Tennessee,"Sequatchie County, TN",16572.61
+Tennessee,"Sevier County, TN",16201.25
+Tennessee,"Shelby County, TN",17115.88
+Tennessee,"Smith County, TN",16114.25
+Tennessee,"Stewart County, TN",16096.51
+Tennessee,"Sullivan County, TN",16058.39
+Tennessee,"Sumner County, TN",16024.48
+Tennessee,"Tipton County, TN",16952.77
+Tennessee,"Trousdale County, TN",16062.6
+Tennessee,"Unicoi County, TN",16073.13
+Tennessee,"Union County, TN",16413.55
+Tennessee,"Van Buren County, TN",16104.45
+Tennessee,"Warren County, TN",16173.45
+Tennessee,"Washington County, TN",16002.03
+Tennessee,"Wayne County, TN",16842.49
+Tennessee,"Weakley County, TN",16349.77
+Tennessee,"White County, TN",15949.71
+Tennessee,"Williamson County, TN",16293.07
+Tennessee,"Wilson County, TN",16126.9
+Tennessee,,16414.93
+Texas,"Anderson County, TX",19187.45
+Texas,"Andrews County, TX",20436.71
+Texas,"Angelina County, TX",19630.91
+Texas,"Aransas County, TX",20685.4
+Texas,"Archer County, TX",19245.67
+Texas,"Armstrong County, TX",19230.01
+Texas,"Atascosa County, TX",20080.52
+Texas,"Austin County, TX",19655.34
+Texas,"Bailey County, TX",19879.14
+Texas,"Bandera County, TX",19252.93
+Texas,"Bastrop County, TX",19685.66
+Texas,"Baylor County, TX",19355.64
+Texas,"Bee County, TX",19834.13
+Texas,"Bell County, TX",19448.33
+Texas,"Bexar County, TX",19661.75
+Texas,"Blanco County, TX",19463.56
+Texas,"Borden County, TX",20091.22
+Texas,"Bosque County, TX",19255.22
+Texas,"Bowie County, TX",18349.12
+Texas,"Brazoria County, TX",20007.37
+Texas,"Brazos County, TX",19513.61
+Texas,"Brewster County, TX",21482.9
+Texas,"Briscoe County, TX",19391.01
+Texas,"Brooks County, TX",20262.79
+Texas,"Brown County, TX",19659.84
+Texas,"Burleson County, TX",19651.02
+Texas,"Burnet County, TX",19516.37
+Texas,"Caldwell County, TX",19779.38
+Texas,"Calhoun County, TX",20374.12
+Texas,"Callahan County, TX",19624.86
+Texas,"Cameron County, TX",20272.92
+Texas,"Camp County, TX",18818.12
+Texas,"Carson County, TX",19057.25
+Texas,"Cass County, TX",18703.66
+Texas,"Castro County, TX",19763.6
+Texas,"Chambers County, TX",19884.59
+Texas,"Cherokee County, TX",19170.55
+Texas,"Childress County, TX",19207.73
+Texas,"Clay County, TX",19060.41
+Texas,"Cochran County, TX",20104.39
+Texas,"Coke County, TX",20064.83
+Texas,"Coleman County, TX",19818.33
+Texas,"Collin County, TX",18795.96
+Texas,"Collingsworth County, TX",19011.34
+Texas,"Colorado County, TX",19640.2
+Texas,"Comal County, TX",19467.7
+Texas,"Comanche County, TX",19517.73
+Texas,"Concho County, TX",19973.99
+Texas,"Cooke County, TX",18749.86
+Texas,"Coryell County, TX",19362.39
+Texas,"Cottle County, TX",19407.4
+Texas,"Crane County, TX",20464.61
+Texas,"Crockett County, TX",20184.64
+Texas,"Crosby County, TX",19818.51
+Texas,"Culberson County, TX",20710.68
+Texas,"Dallam County, TX",19225.68
+Texas,"Dallas County, TX",18954.83
+Texas,"Dawson County, TX",20162.44
+Texas,"Deaf Smith County, TX",19494.02
+Texas,"Delta County, TX",18550.43
+Texas,"Denton County, TX",18899.18
+Texas,"DeWitt County, TX",19707.51
+Texas,"Dickens County, TX",19693.99
+Texas,"Dimmit County, TX",20300.82
+Texas,"Donley County, TX",19113.02
+Texas,"Duval County, TX",20237.29
+Texas,"Eastland County, TX",19511.74
+Texas,"Ector County, TX",20454.61
+Texas,"Edwards County, TX",19665.63
+Texas,"Ellis County, TX",19138.84
+Texas,"El Paso County, TX",21059.21
+Texas,"Erath County, TX",19369
+Texas,"Falls County, TX",19403.87
+Texas,"Fannin County, TX",18519.57
+Texas,"Fayette County, TX",19652.65
+Texas,"Fisher County, TX",19891.96
+Texas,"Floyd County, TX",19675.06
+Texas,"Foard County, TX",19332.99
+Texas,"Fort Bend County, TX",19455.67
+Texas,"Franklin County, TX",18638.6
+Texas,"Freestone County, TX",19238.86
+Texas,"Frio County, TX",20010.22
+Texas,"Gaines County, TX",20296.83
+Texas,"Galveston County, TX",20275.91
+Texas,"Garza County, TX",19906.39
+Texas,"Gillespie County, TX",19519.86
+Texas,"Glasscock County, TX",20326.26
+Texas,"Goliad County, TX",19627.91
+Texas,"Gonzales County, TX",19861.71
+Texas,"Gray County, TX",18930.65
+Texas,"Grayson County, TX",18632.33
+Texas,"Gregg County, TX",19118.77
+Texas,"Grimes County, TX",19535.18
+Texas,"Guadalupe County, TX",19812.52
+Texas,"Hale County, TX",19843.98
+Texas,"Hall County, TX",19264.36
+Texas,"Hamilton County, TX",19378.71
+Texas,"Hansford County, TX",18979.49
+Texas,"Hardeman County, TX",19207.13
+Texas,"Hardin County, TX",19218.3
+Texas,"Harris County, TX",19469.54
+Texas,"Harrison County, TX",18972.08
+Texas,"Hartley County, TX",19339.4
+Texas,"Haskell County, TX",19657.38
+Texas,"Hays County, TX",19406.9
+Texas,"Hemphill County, TX",18696.71
+Texas,"Henderson County, TX",19132.78
+Texas,"Hidalgo County, TX",20389.05
+Texas,"Hill County, TX",19200.07
+Texas,"Hockley County, TX",20052.78
+Texas,"Hood County, TX",19207.86
+Texas,"Hopkins County, TX",18679.39
+Texas,"Houston County, TX",19410.92
+Texas,"Howard County, TX",20211.28
+Texas,"Hudspeth County, TX",21014.59
+Texas,"Hunt County, TX",18800.58
+Texas,"Hutchinson County, TX",19041.11
+Texas,"Irion County, TX",20179.4
+Texas,"Jack County, TX",19179.82
+Texas,"Jackson County, TX",19617.21
+Texas,"Jasper County, TX",19402.75
+Texas,"Jeff Davis County, TX",20892.79
+Texas,"Jefferson County, TX",20063.39
+Texas,"Jim Hogg County, TX",20451.9
+Texas,"Jim Wells County, TX",20168.53
+Texas,"Johnson County, TX",19095.77
+Texas,"Jones County, TX",19795.03
+Texas,"Karnes County, TX",19916.69
+Texas,"Kaufman County, TX",19048.35
+Texas,"Kendall County, TX",19312.39
+Texas,"Kenedy County, TX",20337.88
+Texas,"Kent County, TX",19893.21
+Texas,"Kerr County, TX",19352.83
+Texas,"Kimble County, TX",19820.26
+Texas,"King County, TX",19643.71
+Texas,"Kinney County, TX",19669.84
+Texas,"Kleberg County, TX",20521.91
+Texas,"Knox County, TX",19475.92
+Texas,"Lamar County, TX",18338.31
+Texas,"Lamb County, TX",19872.48
+Texas,"Lampasas County, TX",19468.26
+Texas,"La Salle County, TX",20301.59
+Texas,"Lavaca County, TX",19624.7
+Texas,"Lee County, TX",19668.05
+Texas,"Leon County, TX",19346.84
+Texas,"Liberty County, TX",19355.64
+Texas,"Limestone County, TX",19248.09
+Texas,"Lipscomb County, TX",18533.08
+Texas,"Live Oak County, TX",20006.65
+Texas,"Llano County, TX",19684.63
+Texas,"Loving County, TX",20820.45
+Texas,"Lubbock County, TX",19941.3
+Texas,"Lynn County, TX",20007.26
+Texas,"McCulloch County, TX",19897.54
+Texas,"McLennan County, TX",19282.99
+Texas,"McMullen County, TX",20147.11
+Texas,"Madison County, TX",19436.74
+Texas,"Marion County, TX",18932.88
+Texas,"Martin County, TX",20287.24
+Texas,"Mason County, TX",19719.78
+Texas,"Matagorda County, TX",20609.98
+Texas,"Maverick County, TX",20084.42
+Texas,"Medina County, TX",19613.65
+Texas,"Menard County, TX",19971.04
+Texas,"Midland County, TX",20342.92
+Texas,"Milam County, TX",19587.04
+Texas,"Mills County, TX",19601.96
+Texas,"Mitchell County, TX",20152.57
+Texas,"Montague County, TX",18907.26
+Texas,"Montgomery County, TX",19441.58
+Texas,"Moore County, TX",19144.03
+Texas,"Morris County, TX",18684.02
+Texas,"Motley County, TX",19503.16
+Texas,"Nacogdoches County, TX",19225.56
+Texas,"Navarro County, TX",19196.03
+Texas,"Newton County, TX",19397.72
+Texas,"Nolan County, TX",19948.97
+Texas,"Nueces County, TX",20392.77
+Texas,"Ochiltree County, TX",18758.16
+Texas,"Oldham County, TX",19387.74
+Texas,"Orange County, TX",19608.87
+Texas,"Palo Pinto County, TX",19316.6
+Texas,"Panola County, TX",19043.92
+Texas,"Parker County, TX",19090.42
+Texas,"Parmer County, TX",19816.57
+Texas,"Pecos County, TX",20484.09
+Texas,"Polk County, TX",19501.91
+Texas,"Potter County, TX",19186.34
+Texas,"Presidio County, TX",21500.35
+Texas,"Rains County, TX",18852.91
+Texas,"Randall County, TX",19338.61
+Texas,"Reagan County, TX",20199.48
+Texas,"Real County, TX",19314.52
+Texas,"Red River County, TX",18286.24
+Texas,"Reeves County, TX",20611.22
+Texas,"Refugio County, TX",20084.48
+Texas,"Roberts County, TX",18822.64
+Texas,"Robertson County, TX",19385.8
+Texas,"Rockwall County, TX",18994.65
+Texas,"Runnels County, TX",19920.66
+Texas,"Rusk County, TX",19094.68
+Texas,"Sabine County, TX",19506.39
+Texas,"San Augustine County, TX",19471.77
+Texas,"San Jacinto County, TX",19553.19
+Texas,"San Patricio County, TX",20247.85
+Texas,"San Saba County, TX",19684.4
+Texas,"Schleicher County, TX",20043.52
+Texas,"Scurry County, TX",19982.14
+Texas,"Shackelford County, TX",19692.93
+Texas,"Shelby County, TX",19300.79
+Texas,"Sherman County, TX",19048.38
+Texas,"Smith County, TX",19077.52
+Texas,"Somervell County, TX",19226.53
+Texas,"Starr County, TX",20769.61
+Texas,"Stephens County, TX",19559.9
+Texas,"Sterling County, TX",20282.26
+Texas,"Stonewall County, TX",19818.6
+Texas,"Sutton County, TX",20021.11
+Texas,"Swisher County, TX",19597.96
+Texas,"Tarrant County, TX",18976.66
+Texas,"Taylor County, TX",19752.02
+Texas,"Terrell County, TX",20506.23
+Texas,"Terry County, TX",20158.77
+Texas,"Throckmorton County, TX",19566.5
+Texas,"Titus County, TX",18597.83
+Texas,"Tom Green County, TX",20091.16
+Texas,"Travis County, TX",19434.93
+Texas,"Trinity County, TX",19595.44
+Texas,"Tyler County, TX",19448.31
+Texas,"Upshur County, TX",18966.74
+Texas,"Upton County, TX",20306.41
+Texas,"Uvalde County, TX",19569
+Texas,"Val Verde County, TX",20084.84
+Texas,"Van Zandt County, TX",18962.94
+Texas,"Victoria County, TX",19678.51
+Texas,"Walker County, TX",19546.07
+Texas,"Waller County, TX",19564.05
+Texas,"Ward County, TX",20775.4
+Texas,"Washington County, TX",19653.69
+Texas,"Webb County, TX",20417.32
+Texas,"Wharton County, TX",19486.91
+Texas,"Wheeler County, TX",18878.91
+Texas,"Wichita County, TX",19128.02
+Texas,"Wilbarger County, TX",19177.34
+Texas,"Willacy County, TX",20270.77
+Texas,"Williamson County, TX",19491.85
+Texas,"Wilson County, TX",19980.9
+Texas,"Winkler County, TX",20657.96
+Texas,"Wise County, TX",18994.98
+Texas,"Wood County, TX",18884.58
+Texas,"Yoakum County, TX",20283.26
+Texas,"Young County, TX",19403.69
+Texas,"Zapata County, TX",20679.21
+Texas,"Zavala County, TX",20067.26
+Texas,,19779.58
+Utah,"Beaver County, UT",17861.6
+Utah,"Box Elder County, UT",16027.43
+Utah,"Cache County, UT",17086.07
+Utah,"Carbon County, UT",17414.95
+Utah,"Daggett County, UT",17403.47
+Utah,"Davis County, UT",16834.06
+Utah,"Duchesne County, UT",17249.99
+Utah,"Emery County, UT",17627.83
+Utah,"Garfield County, UT",18298.86
+Utah,"Grand County, UT",17646.26
+Utah,"Iron County, UT",18354.79
+Utah,"Juab County, UT",17156.75
+Utah,"Kane County, UT",18743.51
+Utah,"Millard County, UT",17280.61
+Utah,"Morgan County, UT",17434.57
+Utah,"Piute County, UT",17511.21
+Utah,"Rich County, UT",17038.39
+Utah,"Salt Lake County, UT",16987.83
+Utah,"San Juan County, UT",18470.12
+Utah,"Sanpete County, UT",17210.87
+Utah,"Sevier County, UT",17204.35
+Utah,"Summit County, UT",17224.54
+Utah,"Tooele County, UT",16435.76
+Utah,"Uintah County, UT",17143.61
+Utah,"Utah County, UT",17219.63
+Utah,"Wasatch County, UT",17451.16
+Utah,"Washington County, UT",18928.68
+Utah,"Wayne County, UT",17838.8
+Utah,"Weber County, UT",17021.72
+Utah,,17472.51
+Vermont,"Addison County, VT",13857.89
+Vermont,"Bennington County, VT",14275.12
+Vermont,"Caledonia County, VT",13697.7
+Vermont,"Chittenden County, VT",13589.82
+Vermont,"Essex County, VT",13420.04
+Vermont,"Franklin County, VT",13566.01
+Vermont,"Grand Isle County, VT",13880.76
+Vermont,"Lamoille County, VT",13684.94
+Vermont,"Orange County, VT",13873.49
+Vermont,"Orleans County, VT",13612.19
+Vermont,"Rutland County, VT",13992.13
+Vermont,"Washington County, VT",13848.12
+Vermont,"Windham County, VT",14385.53
+Vermont,"Windsor County, VT",14125.07
+Vermont,,13854.56
+Virginia,"Accomack County, VA",18570.79
+Virginia,"Albemarle County, VA",16399.22
+Virginia,"Alleghany County, VA",15925.98
+Virginia,"Amelia County, VA",16681.5
+Virginia,"Amherst County, VA",16630.03
+Virginia,"Appomattox County, VA",16711.71
+Virginia,"Arlington County, VA",15701.4
+Virginia,"Augusta County, VA",16211.14
+Virginia,"Bath County, VA",15966.06
+Virginia,"Bedford County, VA",16730.4
+Virginia,"Bland County, VA",15848.9
+Virginia,"Botetourt County, VA",16325.75
+Virginia,"Brunswick County, VA",16958.83
+Virginia,"Buchanan County, VA",15319.02
+Virginia,"Buckingham County, VA",16598.72
+Virginia,"Campbell County, VA",16796.91
+Virginia,"Caroline County, VA",16307.42
+Virginia,"Carroll County, VA",16564.28
+Virginia,"Charles City County, VA",16921.46
+Virginia,"Charlotte County, VA",16876.08
+Virginia,"Chesterfield County, VA",16661.82
+Virginia,"Clarke County, VA",15526.37
+Virginia,"Craig County, VA",16054.14
+Virginia,"Culpeper County, VA",15949.44
+Virginia,"Cumberland County, VA",16610.56
+Virginia,"Dickenson County, VA",15366.72
+Virginia,"Dinwiddie County, VA",16821.24
+Virginia,"Essex County, VA",16511.35
+Virginia,"Fairfax County, VA",15789.91
+Virginia,"Fauquier County, VA",15856.54
+Virginia,"Floyd County, VA",16524
+Virginia,"Fluvanna County, VA",16446.21
+Virginia,"Franklin County, VA",16811.24
+Virginia,"Frederick County, VA",15427.56
+Virginia,"Giles County, VA",15853.36
+Virginia,"Gloucester County, VA",17506.42
+Virginia,"Goochland County, VA",16487.5
+Virginia,"Grayson County, VA",16279.03
+Virginia,"Greene County, VA",16141.07
+Virginia,"Greensville County, VA",16988.9
+Virginia,"Halifax County, VA",16983.6
+Virginia,"Hanover County, VA",16412.8
+Virginia,"Henrico County, VA",16580.48
+Virginia,"Henry County, VA",16967.09
+Virginia,"Highland County, VA",15731.17
+Virginia,"Isle of Wight County, VA",17057.75
+Virginia,"James City County, VA",17056.37
+Virginia,"King and Queen County, VA",16667.97
+Virginia,"King George County, VA",16300.01
+Virginia,"King William County, VA",16619.81
+Virginia,"Lancaster County, VA",17464.99
+Virginia,"Lee County, VA",15862.79
+Virginia,"Loudoun County, VA",15641.77
+Virginia,"Louisa County, VA",16368.88
+Virginia,"Lunenburg County, VA",16868.6
+Virginia,"Madison County, VA",16039.62
+Virginia,"Mathews County, VA",18064.87
+Virginia,"Mecklenburg County, VA",17052.85
+Virginia,"Middlesex County, VA",17311.06
+Virginia,"Montgomery County, VA",16266.36
+Virginia,"Nelson County, VA",16485.63
+Virginia,"New Kent County, VA",16795
+Virginia,"Northampton County, VA",18799.74
+Virginia,"Northumberland County, VA",17358.11
+Virginia,"Nottoway County, VA",16784.11
+Virginia,"Orange County, VA",16212.27
+Virginia,"Page County, VA",15812.9
+Virginia,"Patrick County, VA",16914.3
+Virginia,"Pittsylvania County, VA",16935.06
+Virginia,"Powhatan County, VA",16569.73
+Virginia,"Prince Edward County, VA",16739.95
+Virginia,"Prince George County, VA",16858.56
+Virginia,"Prince William County, VA",15959.38
+Virginia,"Pulaski County, VA",16214.3
+Virginia,"Rappahannock County, VA",15732.46
+Virginia,"Richmond County, VA",16501.17
+Virginia,"Roanoke County, VA",16511.12
+Virginia,"Rockbridge County, VA",16239.76
+Virginia,"Rockingham County, VA",15996.03
+Virginia,"Russell County, VA",15743.26
+Virginia,"Scott County, VA",15986.48
+Virginia,"Shenandoah County, VA",15677.18
+Virginia,"Smyth County, VA",15816.06
+Virginia,"Southampton County, VA",17016.8
+Virginia,"Spotsylvania County, VA",16190.12
+Virginia,"Stafford County, VA",16149.34
+Virginia,"Surry County, VA",17014.49
+Virginia,"Sussex County, VA",16900.62
+Virginia,"Tazewell County, VA",15427.59
+Virginia,"Warren County, VA",15591.99
+Virginia,"Washington County, VA",15798.31
+Virginia,"Westmoreland County, VA",16694.14
+Virginia,"Wise County, VA",15471.81
+Virginia,"Wythe County, VA",16169.47
+Virginia,"York County, VA",17553.48
+Virginia,"Alexandria city, VA",15864.78
+Virginia,"Bedford city, VA",16788.15
+Virginia,"Bristol city, VA",15791.56
+Virginia,"Buena Vista city, VA",16469.01
+Virginia,"Charlottesville city, VA",16399.88
+Virginia,"Chesapeake city, VA",17264.6
+Virginia,"Clifton Forge city, VA",16130.38
+Virginia,"Colonial Heights city, VA",16742.24
+Virginia,"Covington city, VA",15913.7
+Virginia,"Danville city, VA",17042.29
+Virginia,"Emporia city, VA",16976.14
+Virginia,"Fairfax city, VA",15852.37
+Virginia,"Falls Church city, VA",15697.06
+Virginia,"Franklin city, VA",17009.22
+Virginia,"Fredericksburg city, VA",16119.28
+Virginia,"Galax city, VA",16484.47
+Virginia,"Hampton city, VA",17709.27
+Virginia,"Harrisonburg city, VA",16082.49
+Virginia,"Hopewell city, VA",16828.22
+Virginia,"Lexington city, VA",16142.19
+Virginia,"Lynchburg city, VA",16669.39
+Virginia,"Manassas city, VA",16041.3
+Virginia,"Manassas Park city, VA",15790.89
+Virginia,"Martinsville city, VA",16966.5
+Virginia,"Newport News city, VA",17387.7
+Virginia,"Norfolk city, VA",17052.93
+Virginia,"Norton city, VA",15507.06
+Virginia,"Petersburg city, VA",16851.04
+Virginia,"Poquoson city, VA",18040.82
+Virginia,"Portsmouth city, VA",17060.57
+Virginia,"Radford city, VA",16178.22
+Virginia,"Richmond city, VA",16539.43
+Virginia,"Roanoke city, VA",16555.08
+Virginia,"Salem city, VA",16496.11
+Virginia,"South Boston  city, VA",16950.38
+Virginia,"Staunton city, VA",16247.05
+Virginia,"Suffolk city, VA",17087.32
+Virginia,"Virginia Beach city, VA",17875.93
+Virginia,"Waynesboro city, VA",16300.42
+Virginia,"Williamsburg city, VA",17225.17
+Virginia,"Winchester city, VA",15503
+Virginia,,16462.42
+Washington,"Adams County, WA",15205.96
+Washington,"Asotin County, WA",14783.78
+Washington,"Benton County, WA",15826.24
+Washington,"Chelan County, WA",15258.72
+Washington,"Clallam County, WA",13712.48
+Washington,"Clark County, WA",13353.98
+Washington,"Columbia County, WA",14939.16
+Washington,"Cowlitz County, WA",13280.78
+Washington,"Douglas County, WA",15235.81
+Washington,"Ferry County, WA",14159.63
+Washington,"Franklin County, WA",15553.56
+Washington,"Garfield County, WA",14703.46
+Washington,"Grant County, WA",15580.49
+Washington,"Grays Harbor County, WA",13265.51
+Washington,"Island County, WA",12306.63
+Washington,"Jefferson County, WA",13560.6
+Washington,"King County, WA",13495.57
+Washington,"Kitsap County, WA",12897.21
+Washington,"Kittitas County, WA",15647.83
+Washington,"Klickitat County, WA",15890.18
+Washington,"Lewis County, WA",13714.17
+Washington,"Lincoln County, WA",14837.99
+Washington,"Mason County, WA",13525.74
+Washington,"Okanogan County, WA",14429.32
+Washington,"Pacific County, WA",13249.61
+Washington,"Pend Oreille County, WA",13650.94
+Washington,"Pierce County, WA",13845.34
+Washington,"San Juan County, WA",13385.26
+Washington,"Skagit County, WA",13108.45
+Washington,"Skamania County, WA",14870.49
+Washington,"Snohomish County, WA",13280.61
+Washington,"Spokane County, WA",14277.01
+Washington,"Stevens County, WA",13946.8
+Washington,"Thurston County, WA",13018.78
+Washington,"Wahkiakum County, WA",13350.22
+Washington,"Walla Walla County, WA",14959.77
+Washington,"Whatcom County, WA",13233.03
+Washington,"Whitman County, WA",14519.14
+Washington,"Yakima County, WA",15850.28
+Washington,,14423.6
+West Virginia,"Barbour County, WV",14082.98
+West Virginia,"Berkeley County, WV",15276.64
+West Virginia,"Boone County, WV",14881.45
+West Virginia,"Braxton County, WV",14418.69
+West Virginia,"Brooke County, WV",14177.18
+West Virginia,"Cabell County, WV",14977.38
+West Virginia,"Calhoun County, WV",14551.91
+West Virginia,"Clay County, WV",14566.92
+West Virginia,"Doddridge County, WV",14399.25
+West Virginia,"Fayette County, WV",14959.18
+West Virginia,"Gilmer County, WV",14517.96
+West Virginia,"Grant County, WV",15046.55
+West Virginia,"Greenbrier County, WV",15429.22
+West Virginia,"Hampshire County, WV",15205.08
+West Virginia,"Hancock County, WV",14090.69
+West Virginia,"Hardy County, WV",15367.9
+West Virginia,"Harrison County, WV",14412.4
+West Virginia,"Jackson County, WV",14738.24
+West Virginia,"Jefferson County, WV",15352.15
+West Virginia,"Kanawha County, WV",14791.69
+West Virginia,"Lewis County, WV",14351.9
+West Virginia,"Lincoln County, WV",14961.23
+West Virginia,"Logan County, WV",14991.9
+West Virginia,"McDowell County, WV",15313.9
+West Virginia,"Marion County, WV",14237.93
+West Virginia,"Marshall County, WV",14248.88
+West Virginia,"Mason County, WV",14890.19
+West Virginia,"Mercer County, WV",15424.06
+West Virginia,"Mineral County, WV",14889.23
+West Virginia,"Mingo County, WV",15065.23
+West Virginia,"Monongalia County, WV",14138.65
+West Virginia,"Monroe County, WV",15525.85
+West Virginia,"Morgan County, WV",15090.82
+West Virginia,"Nicholas County, WV",14573.74
+West Virginia,"Ohio County, WV",14256.98
+West Virginia,"Pendleton County, WV",15491.93
+West Virginia,"Pleasants County, WV",14535.81
+West Virginia,"Pocahontas County, WV",15353.17
+West Virginia,"Preston County, WV",14200.46
+West Virginia,"Putnam County, WV",14901.6
+West Virginia,"Raleigh County, WV",15138.88
+West Virginia,"Randolph County, WV",14571.55
+West Virginia,"Ritchie County, WV",14492.47
+West Virginia,"Roane County, WV",14651.04
+West Virginia,"Summers County, WV",15332.43
+West Virginia,"Taylor County, WV",14115.2
+West Virginia,"Tucker County, WV",14498.79
+West Virginia,"Tyler County, WV",14404.05
+West Virginia,"Upshur County, WV",14262.26
+West Virginia,"Wayne County, WV",15022.91
+West Virginia,"Webster County, WV",14399.62
+West Virginia,"Wetzel County, WV",14351.26
+West Virginia,"Wirt County, WV",14602.22
+West Virginia,"Wood County, WV",14644.25
+West Virginia,"Wyoming County, WV",15280.51
+West Virginia,,14831.69
+Wisconsin,"Adams County, WI",14473.85
+Wisconsin,"Ashland County, WI",13963.42
+Wisconsin,"Barron County, WI",14338.81
+Wisconsin,"Bayfield County, WI",14096.85
+Wisconsin,"Brown County, WI",15450.58
+Wisconsin,"Buffalo County, WI",14263.2
+Wisconsin,"Burnett County, WI",14372.78
+Wisconsin,"Calumet County, WI",14790.51
+Wisconsin,"Chippewa County, WI",14436.62
+Wisconsin,"Clark County, WI",14449.52
+Wisconsin,"Columbia County, WI",14574.24
+Wisconsin,"Crawford County, WI",14523.65
+Wisconsin,"Dane County, WI",14589.81
+Wisconsin,"Dodge County, WI",14576.76
+Wisconsin,"Door County, WI",15321.79
+Wisconsin,"Douglas County, WI",14164.64
+Wisconsin,"Dunn County, WI",14379.41
+Wisconsin,"Eau Claire County, WI",14343.05
+Wisconsin,"Florence County, WI",14191.35
+Wisconsin,"Fond du Lac County, WI",14654.93
+Wisconsin,"Forest County, WI",14142.12
+Wisconsin,"Grant County, WI",14642.37
+Wisconsin,"Green County, WI",14581.38
+Wisconsin,"Green Lake County, WI",14616.91
+Wisconsin,"Iowa County, WI",14585.39
+Wisconsin,"Iron County, WI",13950.24
+Wisconsin,"Jackson County, WI",14237.31
+Wisconsin,"Jefferson County, WI",14556.5
+Wisconsin,"Juneau County, WI",14394.19
+Wisconsin,"Kenosha County, WI",15091.43
+Wisconsin,"Kewaunee County, WI",15389.67
+Wisconsin,"La Crosse County, WI",14253.56
+Wisconsin,"Lafayette County, WI",14605.37
+Wisconsin,"Langlade County, WI",14261.64
+Wisconsin,"Lincoln County, WI",14254.12
+Wisconsin,"Manitowoc County, WI",15567.1
+Wisconsin,"Marathon County, WI",14483.5
+Wisconsin,"Marinette County, WI",14555.13
+Wisconsin,"Marquette County, WI",14557.26
+Wisconsin,"Menominee County, WI",14439.1
+Wisconsin,"Milwaukee County, WI",15389.46
+Wisconsin,"Monroe County, WI",14268.01
+Wisconsin,"Oconto County, WI",14783.11
+Wisconsin,"Oneida County, WI",14040.26
+Wisconsin,"Outagamie County, WI",14721.83
+Wisconsin,"Ozaukee County, WI",15370.42
+Wisconsin,"Pepin County, WI",14247.11
+Wisconsin,"Pierce County, WI",14374.54
+Wisconsin,"Polk County, WI",14444
+Wisconsin,"Portage County, WI",14526.88
+Wisconsin,"Price County, WI",14062.34
+Wisconsin,"Racine County, WI",15079
+Wisconsin,"Richland County, WI",14416.69
+Wisconsin,"Rock County, WI",14546.33
+Wisconsin,"Rusk County, WI",14275.3
+Wisconsin,"St. Croix County, WI",14458.95
+Wisconsin,"Sauk County, WI",14527.8
+Wisconsin,"Sawyer County, WI",14105.12
+Wisconsin,"Shawano County, WI",14596.5
+Wisconsin,"Sheboygan County, WI",15307.72
+Wisconsin,"Taylor County, WI",14413.32
+Wisconsin,"Trempealeau County, WI",14273.98
+Wisconsin,"Vernon County, WI",14370.61
+Wisconsin,"Vilas County, WI",13940.29
+Wisconsin,"Walworth County, WI",14629.92
+Wisconsin,"Washburn County, WI",14204.47
+Wisconsin,"Washington County, WI",14803.17
+Wisconsin,"Waukesha County, WI",14635.94
+Wisconsin,"Waupaca County, WI",14631.48
+Wisconsin,"Waushara County, WI",14607.88
+Wisconsin,"Winnebago County, WI",14793.94
+Wisconsin,"Wood County, WI",14416.86
+Wisconsin,,14446.51
+Wyoming,"Albany County, WY",16148.54
+Wyoming,"Big Horn County, WY",15899.69
+Wyoming,"Campbell County, WY",15617.38
+Wyoming,"Carbon County, WY",16476.09
+Wyoming,"Converse County, WY",16041.35
+Wyoming,"Crook County, WY",15461.91
+Wyoming,"Fremont County, WY",16628.97
+Wyoming,"Goshen County, WY",16212.87
+Wyoming,"Hot Springs County, WY",16232.8
+Wyoming,"Johnson County, WY",15763.23
+Wyoming,"Laramie County, WY",16211.33
+Wyoming,"Lincoln County, WY",16870.57
+Wyoming,"Natrona County, WY",16244
+Wyoming,"Niobrara County, WY",16075.08
+Wyoming,"Park County, WY",15743.99
+Wyoming,"Platte County, WY",16053.3
+Wyoming,"Sheridan County, WY",15470.48
+Wyoming,"Sublette County, WY",16783.36
+Wyoming,"Sweetwater County, WY",16765
+Wyoming,"Teton County, WY",16265.26
+Wyoming,"Uinta County, WY",17008.92
+Wyoming,"Washakie County, WY",16167.84
+Wyoming,"Weston County, WY",15926.32
+Wyoming,,16239.01
+,,16857.41
